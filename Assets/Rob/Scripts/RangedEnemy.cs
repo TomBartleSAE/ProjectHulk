@@ -6,12 +6,17 @@ public class RangedEnemy : Enemy
 {
     public float stopDistance;
     private float attackTime;
-    
+    private Animator anim;
 
     public Transform shotPoint;
     public GameObject enemyBullet;
 
-    
+
+    public override void Start()
+    {
+        base.Start();
+        anim = GetComponent<Animator>();
+    }
 
     // Update is called once per frame
     private void Update()
@@ -26,6 +31,7 @@ public class RangedEnemy : Enemy
             if (Time.time >= attackTime)
             {
                 attackTime = Time.time + timeBetweenAttacks;
+                RangedAttack();
             }
         }
     }
