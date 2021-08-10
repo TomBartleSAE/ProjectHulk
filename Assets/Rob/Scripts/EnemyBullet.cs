@@ -7,14 +7,14 @@ public class EnemyBullet : MonoBehaviour
     public float speed;
     public int damage;
 
-    private Player playerScript;
+    //private PlayerJumping playerScript;
     private Vector2 targetPosition;
 
 
     // Start is called before the first frame update
     void Start()
     {
-        playerScript = GameObject.FindGameObjectWithTag("Player").GetComponent<Player>();
+        GameObject playerScript = GameObject.FindGameObjectWithTag("Player");//.GetComponent<PlayerJumping>();
         targetPosition = playerScript.transform.position;
     }
 
@@ -31,12 +31,12 @@ public class EnemyBullet : MonoBehaviour
         }
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if (collision.tag == "Player")
-        {
-            playerScript.TakeDamage(damage);
-            Destroy(gameObject);
-        }
-    }
+    // private void OnTriggerEnter2D(Collider2D collision)
+    // {
+    //     if (collision.tag == "Player")
+    //     {
+    //         playerScript.TakeDamage(damage);
+    //         Destroy(gameObject);
+    //     }
+    // }
 }

@@ -19,12 +19,12 @@ public class Enemy : MonoBehaviour
         player = GameObject.FindGameObjectWithTag("Player").transform;
     }
 
-    public void TakeDamage(int damageAmount)
-    {
-        health -= damageAmount;
-        Destroy(this.gameObject);
-
-    }
+    // public void TakeDamage(int damageAmount)
+    // {
+    //     health -= damageAmount;
+    //     Destroy(this.gameObject);
+    //
+    // }
 }
 
 
