@@ -3,28 +3,32 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerJumping : MonoBehaviour
+namespace Tom
 {
-    private Rigidbody2D rb;
-    public float jumpForce = 1f;
-
-    public float groundDistance = 0.5f;
-
-    private void Start()
+    public class PlayerJumping : MonoBehaviour
     {
-        rb = GetComponent<Rigidbody2D>();
-    }
+        private Rigidbody2D rb;
+        public float jumpForce = 1f;
+        public LayerMask groundLayer;
 
-    private void Update()
-    {
-        if (Input.GetButtonDown("Jump") && CheckGround())
+        public float groundDistance = 0.5f;
+
+        private void Start()
         {
-            rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            rb = GetComponent<Rigidbody2D>();
         }
-    }
 
-    private bool CheckGround()
-    {
-        return Physics2D.Raycast(transform.position, Vector2.down, groundDistance);
+        private void Update()
+        {
+            if (Input.GetButtonDown("Jump") && CheckGround())
+            {
+                rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
+            }
+        }
+
+        private bool CheckGround()
+        {
+            return Physics2D.Raycast(transform.position, Vector2.down, groundDistance, groundLayer);
+        }
     }
 }
