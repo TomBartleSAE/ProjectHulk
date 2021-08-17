@@ -11,7 +11,7 @@ public class RangedEnemy : Enemy
     public Transform shotPoint;
     public GameObject enemyBullet;
 
-    private Rigidbody2D rb;
+    //private Rigidbody2D rb;
 
     private Vector2 position;
 
@@ -20,7 +20,7 @@ public class RangedEnemy : Enemy
     {
         base.Start();
         anim = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
+        //rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
@@ -30,15 +30,20 @@ public class RangedEnemy : Enemy
         {
             if (Vector2.Distance(position, player.position) > stopDistance)
             {
-                position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
-                rb.MovePosition(position);
+                //position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
+                //rb.MovePosition(position);
+                transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
             }
 
-            if (Time.time >= attackTime)
+            else
             {
-                attackTime = Time.time + timeBetweenAttacks;
-                RangedAttack();
+                if (Time.time >= attackTime)
+                {
+                    attackTime = Time.time + timeBetweenAttacks;
+                    RangedAttack();
+                }
             }
+            
 
 
             
