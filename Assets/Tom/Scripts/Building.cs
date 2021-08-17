@@ -12,6 +12,12 @@ public class Building : MonoBehaviour
     private int currentHealth;
     public event Action OnBuildingDamage;
 
+    private void Start()
+    {
+        currentHealth = sprites.Length - 1;
+        currentSprite = GetComponent<SpriteRenderer>();
+    }
+
     public void DamageBuilding()
     {
         if (currentHealth > 0)
@@ -24,6 +30,7 @@ public class Building : MonoBehaviour
 
     private void OnEnable()
     {
+        health = GetComponent<Health>();
         health.OnDamageEvent += DamageBuilding;
     }
 
