@@ -11,7 +11,7 @@ namespace Tom
 
         public void TakeDamage()
         {
-            OnDamageEvent();
+            OnDamageEvent?.Invoke();
         }
     }
 }
