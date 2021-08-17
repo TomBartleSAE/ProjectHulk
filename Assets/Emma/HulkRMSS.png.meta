@@ -1,0 +1,936 @@
+fileFormatVersion: 2
+guid: 6e315e22dcbdc5a42a513fb9c95cbe1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5926191298476957693
+    second: HulkRMSS_0
+  - first:
+      213: -361456950716506533
+    second: HulkRMSS_1
+  - first:
+      213: 1308959091622245540
+    second: HulkRMSS_2
+  - first:
+      213: -1370891832440437727
+    second: HulkRMSS_3
+  - first:
+      213: 7583149276904206056
+    second: HulkRMSS_4
+  - first:
+      213: 9180800887114604831
+    second: HulkRMSS_5
+  - first:
+      213: 5581530352052005393
+    second: HulkRMSS_6
+  - first:
+      213: -5425761809974348936
+    second: HulkRMSS_7
+  - first:
+      213: 6753368655534345149
+    second: HulkRMSS_8
+  - first:
+      213: 5695601662785700639
+    second: HulkRMSS_9
+  - first:
+      213: -1742150167055311949
+    second: HulkRMSS_10
+  - first:
+      213: 1379037794802908742
+    second: HulkRMSS_11
+  - first:
+      213: 3752271386555403539
+    second: HulkRMSS_12
+  - first:
+      213: 7800590423128221975
+    second: HulkRMSS_13
+  - first:
+      213: -436047204201855622
+    second: HulkRMSS_14
+  - first:
+      213: 3027631210489550569
+    second: HulkRMSS_15
+  - first:
+      213: -702890840101290427
+    second: HulkRMSS_16
+  - first:
+      213: 1198585317508217626
+    second: HulkRMSS_17
+  - first:
+      213: 915174665390301001
+    second: HulkRMSS_18
+  - first:
+      213: -9152412919752552505
+    second: HulkRMSS_19
+  - first:
+      213: -5748460541164227405
+    second: HulkRMSS_20
+  - first:
+      213: 1900505990758768861
+    second: HulkRMSS_21
+  - first:
+      213: -4752598792111706992
+    second: HulkRMSS_22
+  - first:
+      213: 3936626908747155880
+    second: HulkRMSS_23
+  - first:
+      213: -4493418844975077407
+    second: HulkRMSS_24
+  - first:
+      213: -1029724045462513173
+    second: HulkRMSS_25
+  - first:
+      213: -1025150999122989046
+    second: HulkRMSS_26
+  - first:
+      213: 6086178437489915755
+    second: HulkRMSS_27
+  - first:
+      213: -1669507190635437064
+    second: HulkRMSS_28
+  - first:
+      213: -2083515307342171488
+    second: HulkRMSS_29
+  - first:
+      213: 9087034477074278988
+    second: HulkRMSS_30
+  - first:
+      213: 4189680453031725801
+    second: HulkRMSS_31
+  - first:
+      213: 8652988180065032023
+    second: HulkRMSS_32
+  - first:
+      213: -4650263965483125006
+    second: HulkRMSS_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HulkRMSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6420
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffdab0769f0e3250800000000000000
+      internalID: 5926191298476957693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6225
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e52f281d8dbfaf0800000000000000
+      internalID: -361456950716506533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6034
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a479a1db5b5a2210800000000000000
+      internalID: 1308959091622245540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5843
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12447e5442d99fce0800000000000000
+      internalID: -1370891832440437727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5648
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eea2a01712cc3960800000000000000
+      internalID: 7583149276904206056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5457
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ae0ec3c1c86f70800000000000000
+      internalID: 9180800887114604831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5266
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11aee117844957d40800000000000000
+      internalID: 5581530352052005393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5075
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87339987162d3b4b0800000000000000
+      internalID: -5425761809974348936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4880
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc166e209c8bd50800000000000000
+      internalID: 6753368655534345149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4689
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1347742987da0f40800000000000000
+      internalID: 5695601662785700639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4498
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbd74347a3a2d7e0800000000000000
+      internalID: -1742150167055311949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4306
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb0136193532310800000000000000
+      internalID: 1379037794802908742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4115
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d4f7812feb21430800000000000000
+      internalID: 3752271386555403539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3921
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7192fd819a3414c60800000000000000
+      internalID: 7800590423128221975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3729
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a750f38c069d2f9f0800000000000000
+      internalID: -436047204201855622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3538
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e69d1c7b8e440a20800000000000000
+      internalID: 3027631210489550569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3347
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ef2e74184de36f0800000000000000
+      internalID: -702890840101290427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3156
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b7313fefa32a010800000000000000
+      internalID: 1198585317508217626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2961
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f9606628a53bc00800000000000000
+      internalID: 915174665390301001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2770
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf0478e0f81cf080800000000000000
+      internalID: -9152412919752552505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2579
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b47e8e289d5930b0800000000000000
+      internalID: -5748460541164227405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2384
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd0ada81124ff5a10800000000000000
+      internalID: 1900505990758768861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2193
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2b3434906b0eb0800000000000000
+      internalID: -4752598792111706992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2002
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94e1df055b1a630800000000000000
+      internalID: 3936626908747155880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1811
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7e63e1e5b24a1c0800000000000000
+      internalID: -4493418844975077407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1616
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be95785bf6fa5b1f0800000000000000
+      internalID: -1029724045462513173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1425
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a003328099ee5c1f0800000000000000
+      internalID: -1025150999122989046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1234
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b677a3efa03767450800000000000000
+      internalID: 6086178437489915755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1042
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3e6383e08b4d8e0800000000000000
+      internalID: -1669507190635437064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 851
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2f7cdedddd513e0800000000000000
+      internalID: -2083515307342171488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 192
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a6db336b1ab1e70800000000000000
+      internalID: 9087034477074278988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 465
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea8a559c2cb42a30800000000000000
+      internalID: 4189680453031725801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 274
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7571e6e77e6951870800000000000000
+      internalID: 8652988180065032023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkRMSS_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 83
+        width: 192
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f63491cf81f67fb0800000000000000
+      internalID: -4650263965483125006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

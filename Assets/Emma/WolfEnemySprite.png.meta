@@ -1,0 +1,1416 @@
+fileFormatVersion: 2
+guid: fa50f3e4c4c5c8844be7ff4b7c78ba99
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7893725043733395400
+    second: WolfEnemySprite_0
+  - first:
+      213: 6021778303136300317
+    second: WolfEnemySprite_1
+  - first:
+      213: -5098424304414149278
+    second: WolfEnemySprite_2
+  - first:
+      213: 4001507105151605401
+    second: WolfEnemySprite_3
+  - first:
+      213: 2949883949101190670
+    second: WolfEnemySprite_4
+  - first:
+      213: 1801986133075064280
+    second: WolfEnemySprite_5
+  - first:
+      213: -5809202705345744150
+    second: WolfEnemySprite_6
+  - first:
+      213: 6029790825921834766
+    second: WolfEnemySprite_7
+  - first:
+      213: -1017243651819020739
+    second: WolfEnemySprite_8
+  - first:
+      213: -8290993669027675798
+    second: WolfEnemySprite_9
+  - first:
+      213: 488718787725888782
+    second: WolfEnemySprite_10
+  - first:
+      213: -5200733693724838633
+    second: WolfEnemySprite_11
+  - first:
+      213: 4058664215655038327
+    second: WolfEnemySprite_12
+  - first:
+      213: -4263573545249441155
+    second: WolfEnemySprite_13
+  - first:
+      213: -8021561112615372697
+    second: WolfEnemySprite_14
+  - first:
+      213: 4855102674979286747
+    second: WolfEnemySprite_15
+  - first:
+      213: 8293578276623415487
+    second: WolfEnemySprite_16
+  - first:
+      213: -2566140799990008600
+    second: WolfEnemySprite_17
+  - first:
+      213: 2494243894271500765
+    second: WolfEnemySprite_18
+  - first:
+      213: -8372336792955091861
+    second: WolfEnemySprite_19
+  - first:
+      213: -5946851170477379572
+    second: WolfEnemySprite_20
+  - first:
+      213: -6711448084414319553
+    second: WolfEnemySprite_21
+  - first:
+      213: -4195582550944530742
+    second: WolfEnemySprite_22
+  - first:
+      213: -1960504914657325444
+    second: WolfEnemySprite_23
+  - first:
+      213: -1012722781343750735
+    second: WolfEnemySprite_24
+  - first:
+      213: -4996893579510807074
+    second: WolfEnemySprite_25
+  - first:
+      213: -7357354379883359588
+    second: WolfEnemySprite_26
+  - first:
+      213: 9190452432991287309
+    second: WolfEnemySprite_27
+  - first:
+      213: -7824639940078664910
+    second: WolfEnemySprite_28
+  - first:
+      213: 7722152598818878527
+    second: WolfEnemySprite_29
+  - first:
+      213: -2174119579893193080
+    second: WolfEnemySprite_30
+  - first:
+      213: 5378934464588516049
+    second: WolfEnemySprite_31
+  - first:
+      213: 2680112989147393530
+    second: WolfEnemySprite_32
+  - first:
+      213: -3528588803757326560
+    second: WolfEnemySprite_33
+  - first:
+      213: 8898788764785332401
+    second: WolfEnemySprite_34
+  - first:
+      213: -3978461432697644305
+    second: WolfEnemySprite_35
+  - first:
+      213: 7866074647806772005
+    second: WolfEnemySprite_36
+  - first:
+      213: 725568627379484339
+    second: WolfEnemySprite_37
+  - first:
+      213: 7388705533776126767
+    second: WolfEnemySprite_38
+  - first:
+      213: -1901570832287864236
+    second: WolfEnemySprite_39
+  - first:
+      213: -2130361448322807646
+    second: WolfEnemySprite_40
+  - first:
+      213: -7230000890589347506
+    second: WolfEnemySprite_41
+  - first:
+      213: 914608453901738134
+    second: WolfEnemySprite_42
+  - first:
+      213: -5979137038205857808
+    second: WolfEnemySprite_43
+  - first:
+      213: 7150881360454427013
+    second: WolfEnemySprite_44
+  - first:
+      213: 367155508193937973
+    second: WolfEnemySprite_45
+  - first:
+      213: -267258452205194860
+    second: WolfEnemySprite_46
+  - first:
+      213: 1357051256684457591
+    second: WolfEnemySprite_47
+  - first:
+      213: 460469059374743034
+    second: WolfEnemySprite_48
+  - first:
+      213: -2148301608717777557
+    second: WolfEnemySprite_49
+  - first:
+      213: 8759845493090092991
+    second: WolfEnemySprite_50
+  - first:
+      213: 4411648277498255189
+    second: WolfEnemySprite_51
+  - first:
+      213: -4684855000910730041
+    second: WolfEnemySprite_52
+  - first:
+      213: -8379284920617057247
+    second: WolfEnemySprite_53
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WolfEnemySprite_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 320
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8388aad35ead37290800000000000000
+      internalID: -7893725043733395400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 320
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1df7924677a19350800000000000000
+      internalID: 6021778303136300317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 320
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2653d259b12ce39b0800000000000000
+      internalID: -5098424304414149278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 320
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a53c0e285388730800000000000000
+      internalID: 4001507105151605401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 323
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e8dc292d710f820800000000000000
+      internalID: 2949883949101190670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 323
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d57e1837d0f10910800000000000000
+      internalID: 1801986133075064280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_6
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 333
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2f0affae0916fa0800000000000000
+      internalID: -5809202705345744150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 333
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0feaf81fce1ea350800000000000000
+      internalID: 6029790825921834766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 333
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e5e4bc94602e1f0800000000000000
+      internalID: -1017243651819020739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_9
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 256
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c7928f2970fc80800000000000000
+      internalID: -8290993669027675798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 256
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d0679e52748c600800000000000000
+      internalID: 488718787725888782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_11
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 256
+        width: 47
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715302e924843d7b0800000000000000
+      internalID: -5200733693724838633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 261
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d35b4b995435830800000000000000
+      internalID: 4058664215655038327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 256
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a77a1337eb4d4c0800000000000000
+      internalID: -4263573545249441155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 256
+        width: 47
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768397a0ba0bda090800000000000000
+      internalID: -8021561112615372697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_15
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 259
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde6032d82ac06340800000000000000
+      internalID: 4855102674979286747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_16
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 259
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8f8075085b81370800000000000000
+      internalID: 8293578276623415487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e475f4d98c336cd0800000000000000
+      internalID: -2566140799990008600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 195
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd16d355b955d9220800000000000000
+      internalID: 2494243894271500765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_19
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 195
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b648afb9b0c7fcb80800000000000000
+      internalID: -8372336792955091861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 195
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0074934e5a887da0800000000000000
+      internalID: -5946851170477379572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 195
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f343208a6852cd2a0800000000000000
+      internalID: -6711448084414319553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 195
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acebf1926eb46c5c0800000000000000
+      internalID: -4195582550944530742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 195
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e4175da23eac4e0800000000000000
+      internalID: -1960504914657325444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_24
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 195
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b56f0afef512f1f0800000000000000
+      internalID: -1012722781343750735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 195
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed504dc93c777aab0800000000000000
+      internalID: -4996893579510807074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_26
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 195
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9253642c2d65e990800000000000000
+      internalID: -7357354379883359588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_27
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 128
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08f1917bcb0b8f70800000000000000
+      internalID: 9190452432991287309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_28
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 128
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23307446e6b496390800000000000000
+      internalID: -7824639940078664910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 128
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3475f9ffd89a2b60800000000000000
+      internalID: 7722152598818878527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_30
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 128
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 886ae35d2c9f3d1e0800000000000000
+      internalID: -2174119579893193080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 131
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da87ef8560d5aa40800000000000000
+      internalID: 5378934464588516049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 131
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd6a04509ca13520800000000000000
+      internalID: 2680112989147393530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_33
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 131
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fbf91ad2fe70fc0800000000000000
+      internalID: -3528588803757326560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_34
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 131
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b05448db39de7b70800000000000000
+      internalID: 8898788764785332401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_35
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 131
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea177fd76aa9c8c0800000000000000
+      internalID: -3978461432697644305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_36
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 67
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5238a374739e92d60800000000000000
+      internalID: 7866074647806772005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_37
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 67
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b63f1782dcb11a00800000000000000
+      internalID: 725568627379484339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_38
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 67
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2360b23984f98660800000000000000
+      internalID: 7388705533776126767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_39
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 67
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aec3a27634c95e0800000000000000
+      internalID: -1901570832287864236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_40
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 67
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a84885cc8f6f62e0800000000000000
+      internalID: -2130361448322807646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_41
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 67
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e410aa60f70e9ab90800000000000000
+      internalID: -7230000890589347506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_42
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 64
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690e1630b8751bc00800000000000000
+      internalID: 914608453901738134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffcb56ea86d50da0800000000000000
+      internalID: -5979137038205857808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_44
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 64
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58129d8d5b80d3360800000000000000
+      internalID: 7150881360454427013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_45
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 13
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4a3b4df5681500800000000000000
+      internalID: 367155508193937973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 13
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491b61d8ad18a4cf0800000000000000
+      internalID: -267258452205194860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 13
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eaca09de635d210800000000000000
+      internalID: 1357051256684457591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_48
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 3
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afdf61a7b2ae36600800000000000000
+      internalID: 460469059374743034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_49
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 5
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b650afda113bf22e0800000000000000
+      internalID: -2148301608717777557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_50
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 5
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb701f67019319970800000000000000
+      internalID: 8759845493090092991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_51
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 0
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5575f360cb2593d30800000000000000
+      internalID: 4411648277498255189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_52
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 0
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cce086b23d0cfeb0800000000000000
+      internalID: -4684855000910730041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WolfEnemySprite_53
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 0
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12445d292ccc6bb80800000000000000
+      internalID: -8379284920617057247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

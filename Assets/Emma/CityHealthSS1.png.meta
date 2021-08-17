@@ -1,0 +1,1176 @@
+fileFormatVersion: 2
+guid: 083c0f9f2c3721b4cb7611e66660db42
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8658437822868991937
+    second: CityHealthSS1_0
+  - first:
+      213: -4549019262210770604
+    second: CityHealthSS1_1
+  - first:
+      213: -7254481685016694227
+    second: CityHealthSS1_2
+  - first:
+      213: -8180254468844926099
+    second: CityHealthSS1_3
+  - first:
+      213: 1079036564170697023
+    second: CityHealthSS1_4
+  - first:
+      213: -2389269082550695126
+    second: CityHealthSS1_5
+  - first:
+      213: 2475811529026218208
+    second: CityHealthSS1_6
+  - first:
+      213: 3331962605156195513
+    second: CityHealthSS1_7
+  - first:
+      213: -8741707906846361852
+    second: CityHealthSS1_8
+  - first:
+      213: 1623171113913334732
+    second: CityHealthSS1_9
+  - first:
+      213: -5862784966084359921
+    second: CityHealthSS1_10
+  - first:
+      213: -6793415360232487380
+    second: CityHealthSS1_11
+  - first:
+      213: -7170815167245426033
+    second: CityHealthSS1_12
+  - first:
+      213: 8404768933402662216
+    second: CityHealthSS1_13
+  - first:
+      213: 5848241538405142504
+    second: CityHealthSS1_14
+  - first:
+      213: 4609012675142427797
+    second: CityHealthSS1_15
+  - first:
+      213: 2080250250344642654
+    second: CityHealthSS1_16
+  - first:
+      213: 6388874720817459931
+    second: CityHealthSS1_17
+  - first:
+      213: -5837902417731916467
+    second: CityHealthSS1_18
+  - first:
+      213: 4652587104718226106
+    second: CityHealthSS1_19
+  - first:
+      213: -2241263607881577665
+    second: CityHealthSS1_20
+  - first:
+      213: -4926390022181912121
+    second: CityHealthSS1_21
+  - first:
+      213: -3682253141310054791
+    second: CityHealthSS1_22
+  - first:
+      213: -4065648282202744499
+    second: CityHealthSS1_23
+  - first:
+      213: -1124128189505185032
+    second: CityHealthSS1_24
+  - first:
+      213: -912763942145116040
+    second: CityHealthSS1_25
+  - first:
+      213: 2816029926748601715
+    second: CityHealthSS1_26
+  - first:
+      213: -5530247531988943984
+    second: CityHealthSS1_27
+  - first:
+      213: -6692098942010892784
+    second: CityHealthSS1_28
+  - first:
+      213: 4828524778875379500
+    second: CityHealthSS1_29
+  - first:
+      213: 5108422288097930719
+    second: CityHealthSS1_30
+  - first:
+      213: -8743518696428736894
+    second: CityHealthSS1_31
+  - first:
+      213: 3190415822050948147
+    second: CityHealthSS1_32
+  - first:
+      213: -8086880698549394309
+    second: CityHealthSS1_33
+  - first:
+      213: -5060462349442125778
+    second: CityHealthSS1_34
+  - first:
+      213: 6403136150158289242
+    second: CityHealthSS1_35
+  - first:
+      213: -7118267307276225551
+    second: CityHealthSS1_36
+  - first:
+      213: 3257771226125964561
+    second: CityHealthSS1_37
+  - first:
+      213: 7950223167681173178
+    second: CityHealthSS1_38
+  - first:
+      213: -2503522517946780307
+    second: CityHealthSS1_39
+  - first:
+      213: -8526092139252570680
+    second: CityHealthSS1_40
+  - first:
+      213: 9033935237331945749
+    second: CityHealthSS1_41
+  - first:
+      213: -3633568274836360813
+    second: CityHealthSS1_42
+  - first:
+      213: -9021692369167364657
+    second: CityHealthSS1_43
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CityHealthSS1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8680
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30561aacac07d780800000000000000
+      internalID: -8658437822868991937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8482
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459748f2513aed0c0800000000000000
+      internalID: -4549019262210770604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8280
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22b007e757e25b90800000000000000
+      internalID: -7254481685016694227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8082
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b4234c6e5e97e80800000000000000
+      internalID: -8180254468844926099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7880
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f396d03c90289fe00800000000000000
+      internalID: 1079036564170697023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7679
+        width: 200
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b0eb5ad6c97ded0800000000000000
+      internalID: -2389269082550695126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7481
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8ac6ed779db5220800000000000000
+      internalID: 2475811529026218208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7279
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc583df5528d3e20800000000000000
+      internalID: 3331962605156195513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7081
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407f23a69f63fa680800000000000000
+      internalID: -8741707906846361852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6879
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbba763789a68610800000000000000
+      internalID: 1623171113913334732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6682
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f098a0eb22433aea0800000000000000
+      internalID: -5862784966084359921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6480
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2609a119b0f8b1a0800000000000000
+      internalID: -6793415360232487380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6282
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f826a5619952c7c90800000000000000
+      internalID: -7170815167245426033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6080
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84554b680dcb3a470800000000000000
+      internalID: 8404768933402662216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5882
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef8251a1b0292150800000000000000
+      internalID: 5848241538405142504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5680
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942323cb9086ff30800000000000000
+      internalID: 4609012675142427797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5479
+        width: 200
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e58b5bfb4988edc10800000000000000
+      internalID: 2080250250344642654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5281
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd23cc875b7d9a850800000000000000
+      internalID: 6388874720817459931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5079
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4de1bd7eaa9bfea0800000000000000
+      internalID: -5837902417731916467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4881
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab20b4f325f419040800000000000000
+      internalID: 4652587104718226106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4679
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b45349f9e65e0e0800000000000000
+      internalID: -2241263607881577665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4482
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c181de3062f1abb0800000000000000
+      internalID: -4926390022181912121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4280
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ed523074206ecc0800000000000000
+      internalID: -3682253141310054791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4082
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49d0a59d6ae397c0800000000000000
+      internalID: -4065648282202744499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3880
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa5a861e5b4660f0800000000000000
+      internalID: -1124128189505185032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3682
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b7a8d7063553f0800000000000000
+      internalID: -912763942145116040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3480
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d38b46c4c841720800000000000000
+      internalID: 2816029926748601715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3279
+        width: 200
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b71df8b2d9043b0800000000000000
+      internalID: -5530247531988943984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3081
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e5cafe773e023a0800000000000000
+      internalID: -6692098942010892784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2879
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2fd90a24bd520340800000000000000
+      internalID: 4828524778875379500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2681
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdde3c46103c4e640800000000000000
+      internalID: 5108422288097930719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2479
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ee06c1218c8a680800000000000000
+      internalID: -8743518696428736894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2282
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334f12f5942a64c20800000000000000
+      internalID: 3190415822050948147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2080
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74200ec9d0a5cf80800000000000000
+      internalID: -8086880698549394309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1882
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20734efd40a5c9b0800000000000000
+      internalID: -5060462349442125778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59a5ae37628cd850800000000000000
+      internalID: 6403136150158289242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1482
+        width: 200
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f336852995d63d90800000000000000
+      internalID: -7118267307276225551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1151ab47bade53d20800000000000000
+      internalID: 3257771226125964561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 200
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab697b259ddd45e60800000000000000
+      internalID: 7950223167681173178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 881
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65379eb883b14dd0800000000000000
+      internalID: -2503522517946780307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 679
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5a99d5f5c3da980800000000000000
+      internalID: -8526092139252570680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 481
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5190e090c3cfe5d70800000000000000
+      internalID: 9033935237331945749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 279
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391ff3fc7e8f29dc0800000000000000
+      internalID: -3633568274836360813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CityHealthSS1_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 82
+        width: 200
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd4de6d6928cc280800000000000000
+      internalID: -9021692369167364657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

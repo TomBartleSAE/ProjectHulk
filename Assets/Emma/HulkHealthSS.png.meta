@@ -1,0 +1,888 @@
+fileFormatVersion: 2
+guid: b82698802af29cd488104fed251b272b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8940391323203427453
+    second: HulkHealthSS_0
+  - first:
+      213: -5028186402431968051
+    second: HulkHealthSS_1
+  - first:
+      213: 6805117521240649147
+    second: HulkHealthSS_2
+  - first:
+      213: -6699744637464531463
+    second: HulkHealthSS_3
+  - first:
+      213: 6668659485973350689
+    second: HulkHealthSS_4
+  - first:
+      213: -7140669266749233368
+    second: HulkHealthSS_5
+  - first:
+      213: -1318423866384941461
+    second: HulkHealthSS_6
+  - first:
+      213: 7661745829049692708
+    second: HulkHealthSS_7
+  - first:
+      213: -1078662639446066226
+    second: HulkHealthSS_8
+  - first:
+      213: 8280282089555785482
+    second: HulkHealthSS_9
+  - first:
+      213: 5729981218533718450
+    second: HulkHealthSS_10
+  - first:
+      213: -7587642819748178430
+    second: HulkHealthSS_11
+  - first:
+      213: 752115898610169000
+    second: HulkHealthSS_12
+  - first:
+      213: -429370616486364106
+    second: HulkHealthSS_13
+  - first:
+      213: 6028703274663326584
+    second: HulkHealthSS_14
+  - first:
+      213: 3342456539726471346
+    second: HulkHealthSS_15
+  - first:
+      213: 5162319423095381898
+    second: HulkHealthSS_16
+  - first:
+      213: 168652161762650056
+    second: HulkHealthSS_17
+  - first:
+      213: 524455701750105741
+    second: HulkHealthSS_18
+  - first:
+      213: -1299535603038286492
+    second: HulkHealthSS_19
+  - first:
+      213: -8410700638015655322
+    second: HulkHealthSS_20
+  - first:
+      213: -2354021286052300946
+    second: HulkHealthSS_21
+  - first:
+      213: 1521628614545013797
+    second: HulkHealthSS_22
+  - first:
+      213: 8253229883133267287
+    second: HulkHealthSS_23
+  - first:
+      213: -5999924746589988768
+    second: HulkHealthSS_24
+  - first:
+      213: -1643343694345900705
+    second: HulkHealthSS_25
+  - first:
+      213: 703825643456051196
+    second: HulkHealthSS_26
+  - first:
+      213: -8061477050058397583
+    second: HulkHealthSS_27
+  - first:
+      213: -886444467473801231
+    second: HulkHealthSS_28
+  - first:
+      213: 2364143653539245044
+    second: HulkHealthSS_29
+  - first:
+      213: -7517038463624135491
+    second: HulkHealthSS_30
+  - first:
+      213: 3169998255011697168
+    second: HulkHealthSS_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HulkHealthSS_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6036
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c568c4a86a21c70800000000000000
+      internalID: 8940391323203427453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5844
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccd7928b1b483ab0800000000000000
+      internalID: -5028186402431968051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5652
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbde55c9452a07e50800000000000000
+      internalID: 6805117521240649147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5460
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd291ebfb9b503a0800000000000000
+      internalID: -6699744637464531463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5268
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1290b7d6876db8c50800000000000000
+      internalID: 6668659485973350689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5076
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827ecd0822f37ec90800000000000000
+      internalID: -7140669266749233368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4884
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e7ab49a7404bde0800000000000000
+      internalID: -1318423866384941461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4692
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42276d3ec3df35a60800000000000000
+      internalID: 7661745829049692708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4500
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf45f5b02d701f0800000000000000
+      internalID: -1078662639446066226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4308
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07700c80b879e270800000000000000
+      internalID: 8280282089555785482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4116
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9bc5c3f8bf48f40800000000000000
+      internalID: 5729981218533718450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3924
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206dd567e0743b690800000000000000
+      internalID: -7587642819748178430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3732
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a43596cc6d007a00800000000000000
+      internalID: 752115898610169000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3540
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cf65ff2b19a0af0800000000000000
+      internalID: -429370616486364106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3348
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 873ba86dfa14aa350800000000000000
+      internalID: 6028703274663326584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3156
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0e397838ac26e20800000000000000
+      internalID: 3342456539726471346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2964
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f13b60a2e34a740800000000000000
+      internalID: 5162319423095381898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2772
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7e6706f3c275200800000000000000
+      internalID: 168652161762650056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2580
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864e3b9ead374700800000000000000
+      internalID: 524455701750105741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2388
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d0ee7114f17fde0800000000000000
+      internalID: -1299535603038286492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2196
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 662fceed450374b80800000000000000
+      internalID: -8410700638015655322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2004
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67f42bcc16d45fd0800000000000000
+      internalID: -2354021286052300946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1812
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c760ab929ed1510800000000000000
+      internalID: 1521628614545013797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1620
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d0cc9e9dc598270800000000000000
+      internalID: 8253229883133267287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1428
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0689d606b3cfbbca0800000000000000
+      internalID: -5999924746589988768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1236
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d62a6ed9ba139e0800000000000000
+      internalID: -1643343694345900705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1044
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7320691bd74c900800000000000000
+      internalID: 703825643456051196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 852
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1782e42a551ef1090800000000000000
+      internalID: -8061477050058397583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff1d131477b2b3f0800000000000000
+      internalID: -886444467473801231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb633b80202fc020800000000000000
+      internalID: 2364143653539245044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc3cb4285d1ea790800000000000000
+      internalID: -7517038463624135491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HulkHealthSS_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 192
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01294981e981efb20800000000000000
+      internalID: 3169998255011697168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
