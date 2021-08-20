@@ -25,28 +25,26 @@ namespace Tom
             {
                 attackTimer -= Time.deltaTime;
             }
-
-            if (Input.GetButtonDown("Fire1") && attackTimer <= 0)
-            {
-                Attack();
-            }
         }
 
-        void Attack()
+        public void Attack()
         {
-            Collider2D[] hitObjects = Physics2D.OverlapCircleAll(attackPoint.position, attackRadius);
-
-            if (hitObjects != null)
+            if (attackTimer <= 0)
             {
-                foreach (Collider2D obj in hitObjects)
-                {
-                    obj.GetComponent<Health>()?.TakeDamage();
-                }
-            }
-            
-            anim.SetTrigger("Attack");
+                Collider2D[] hitObjects = Physics2D.OverlapCircleAll(attackPoint.position, attackRadius);
 
-            attackTimer = attackDelay;
+                if (hitObjects != null)
+                {
+                    foreach (Collider2D obj in hitObjects)
+                    {
+                        obj.GetComponent<Health>()?.TakeDamage();
+                    }
+                }
+            
+                anim.SetTrigger("Attack");
+
+                attackTimer = attackDelay;
+            }
         }
 
         private void OnDrawGizmosSelected()

@@ -12,6 +12,8 @@ public class Building : MonoBehaviour
     private int currentHealth;
     public event Action OnBuildingDamage;
 
+    public GameObject destroyedBuilding;
+
     private void Start()
     {
         currentHealth = sprites.Length - 1;
@@ -25,6 +27,11 @@ public class Building : MonoBehaviour
             currentHealth--;
             currentSprite.sprite = sprites[currentHealth];
             OnBuildingDamage?.Invoke();
+        }
+        else
+        {
+            Instantiate(destroyedBuilding, transform.position, transform.rotation);
+            Destroy(gameObject);
         }
     }
 
