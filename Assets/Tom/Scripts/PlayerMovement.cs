@@ -10,18 +10,16 @@ namespace Tom
         private Rigidbody2D rb;
         private Animator anim;
         public float speed = 5f;
-
-        private float horizontal;
-    
+        private float moveDirection;
+        
         private void Start()
         {
             rb = GetComponent<Rigidbody2D>();
             anim = GetComponent<Animator>();
         }
-
-        private void Update()
+        
+        public void Move(float horizontal)
         {
-            horizontal = Input.GetAxisRaw("Horizontal");
             anim.SetFloat("Movement", Mathf.Abs(horizontal));
             anim.SetFloat("yVelocity", rb.velocity.y);
 
@@ -34,11 +32,13 @@ namespace Tom
             {
                 transform.eulerAngles = new Vector3(transform.eulerAngles.x, 180, transform.eulerAngles.z);
             }
+
+            moveDirection = horizontal;
         }
 
         private void FixedUpdate()
         {
-            rb.velocity = new Vector2(horizontal * speed, rb.velocity.y);
+            rb.velocity = new Vector2(moveDirection * speed, rb.velocity.y);
         }
     }
 }

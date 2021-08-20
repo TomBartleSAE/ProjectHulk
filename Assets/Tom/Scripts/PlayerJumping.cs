@@ -18,9 +18,9 @@ namespace Tom
             rb = GetComponent<Rigidbody2D>();
         }
 
-        private void Update()
+        public void Jump()
         {
-            if (Input.GetButtonDown("Jump") && CheckGround())
+            if (CheckGround())
             {
                 rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
             }
