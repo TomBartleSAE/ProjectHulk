@@ -12,6 +12,7 @@ namespace Rob
         public int currentHealth;
         public int maxHealth;
         private EnragedState enragedState;
+        private HealthBar healthBar;
         
         
         
@@ -20,6 +21,7 @@ namespace Rob
         {
             currentHealth = maxHealth;
             enragedState = FindObjectOfType<EnragedState>();
+            healthBar = FindObjectOfType<HealthBar>();
         }
 
         public void OnEnable()
@@ -40,6 +42,7 @@ namespace Rob
             {
                 enragedState.StartRage();
                 currentHealth = maxHealth;
+                healthBar.GetComponent<Animator>().SetTrigger("HealthRefill");
             }
         }
 

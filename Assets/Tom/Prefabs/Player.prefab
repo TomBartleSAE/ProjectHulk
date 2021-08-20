@@ -48,6 +48,7 @@ GameObject:
   - component: {fileID: 4065139268864785878}
   - component: {fileID: 4065139268864785873}
   - component: {fileID: 1262945669}
+  - component: {fileID: 2798732492883406054}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -115,6 +116,7 @@ MonoBehaviour:
   attackDelay: 0.5
   attackPoint: {fileID: 384166400}
   attackRadius: 0.3
+  hitEffect: {fileID: 2955116574427499293, guid: 6daf3280aadbf2541ac7020c5f8ce63a, type: 3}
 --- !u!212 &4065139268864785875
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -251,3 +253,15 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!114 &2798732492883406054
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4065139268864785874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6176189b38209f47a1ca46d9149f171, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
