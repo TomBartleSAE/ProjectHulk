@@ -12,18 +12,42 @@ namespace Rob
 
     public class HealthBar : MonoBehaviour
     {
-        public Slider healthSlider;
+        private Animator anim;
 
 
-        public void SetMaxHealth(int health)
+        private void Start()
         {
-            healthSlider.value = health;
-            healthSlider.value = health;
+            anim = GetComponent<Animator>();
+            
         }
 
-        public void SetHealth(int health)
+        private void Update()
         {
-            healthSlider.value = health;
+            if (Input.GetKeyDown(KeyCode.L))
+            {
+                anim.SetTrigger("HealthUI");
+            }
+
+            if (Input.GetKeyDown(KeyCode.K))
+            {
+                anim.SetTrigger("HealthRefill");
+            }
+        }
+
+        public void OnEnable()
+        {
+            FindObjectOfType<Health>().OnDamageEvent += DamageTaken;
+        }
+
+        public void OnDisable()
+        {
+            FindObjectOfType<Health>().OnDamageEvent -= DamageTaken;
+        }
+
+
+        public void DamageTaken()
+        {
+           anim.SetTrigger("HealthUI");
         }
 
 
