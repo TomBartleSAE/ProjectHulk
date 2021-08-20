@@ -12,6 +12,7 @@ namespace Tom
         public Transform attackPoint;
         public float attackRadius = 0.5f;
         private Animator anim;
+        public GameObject hitEffect;
 
         private void Start()
         {
@@ -35,6 +36,9 @@ namespace Tom
 
                 if (hitObjects != null)
                 {
+                    GameObject newEffect = Instantiate(hitEffect, attackPoint.position, Quaternion.identity);
+                    Destroy(newEffect, 1f);
+                    
                     foreach (Collider2D obj in hitObjects)
                     {
                         obj.GetComponent<Health>()?.TakeDamage();
