@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4124177095491064251
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4124177095491064250}
+  - component: {fileID: 4124177095491064228}
+  - component: {fileID: 4124177095491064229}
+  - component: {fileID: 4124177095491064231}
+  m_Layer: 5
+  m_Name: EnemyHealthBar
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &4124177095491064250
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4124177095491064251}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 2, y: 2, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 191.99998, y: 38.999996}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &4124177095491064228
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4124177095491064251}
+  m_CullTransparentMesh: 1
+--- !u!114 &4124177095491064229
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4124177095491064251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: 6475933623397263503, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  m_Type: 0
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 4
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &4124177095491064231
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4124177095491064251}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5f9a4e78033a994ba08fa82d7b5aa47, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cityHealth:
+  - {fileID: 6475933623397263503, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 6059321615273872688, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 4133263300690406144, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 8208711789830190350, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -8432936989925939261, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -2276897305247169329, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -8757757753021505570, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 1885587743365038369, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -7930999698745688574, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 279027309111703658, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -2638343292813557517, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -3114865890754302051, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 4621311841600684749, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: 5889162152360685720, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -1682819587441089341, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}
+  - {fileID: -9200120985393816769, guid: c6178a4ab7708f54891a6e4f89818d0b, type: 3}

@@ -13,7 +13,7 @@ public class Spawner : MonoBehaviour
 
     public void Start()
     {
-        Spawn();
+        timer = Random.Range(minDelay, maxDelay);
     }
 
     private void Update()
