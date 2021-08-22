@@ -25,7 +25,6 @@ public class Spawner : MonoBehaviour
             if (timer <= 0)
             {
                 Spawn();
-                timer = 0;
             }
         }
     }
