@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: e9105201025db8645bc1807804076e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5834767172107176855
+    second: Browser Games - Marvel Avengers Alliance - Thanos_0
+  - first:
+      213: 202240315593006196
+    second: Browser Games - Marvel Avengers Alliance - Thanos_1
+  - first:
+      213: -1451558501801270072
+    second: Browser Games - Marvel Avengers Alliance - Thanos_2
+  - first:
+      213: -3142216352108181828
+    second: Browser Games - Marvel Avengers Alliance - Thanos_3
+  - first:
+      213: 5656268684874509962
+    second: Browser Games - Marvel Avengers Alliance - Thanos_4
+  - first:
+      213: 987406749385974362
+    second: Browser Games - Marvel Avengers Alliance - Thanos_5
+  - first:
+      213: -688342321292539576
+    second: Browser Games - Marvel Avengers Alliance - Thanos_6
+  - first:
+      213: -5838210231601873869
+    second: Browser Games - Marvel Avengers Alliance - Thanos_7
+  - first:
+      213: 5244547452126092396
+    second: Browser Games - Marvel Avengers Alliance - Thanos_8
+  - first:
+      213: 1245597009766831622
+    second: Browser Games - Marvel Avengers Alliance - Thanos_9
+  - first:
+      213: 1385585945455332484
+    second: Browser Games - Marvel Avengers Alliance - Thanos_10
+  - first:
+      213: 8587730127659978150
+    second: Browser Games - Marvel Avengers Alliance - Thanos_11
+  - first:
+      213: -3433513338097538788
+    second: Browser Games - Marvel Avengers Alliance - Thanos_12
+  - first:
+      213: -4214255612533312505
+    second: Browser Games - Marvel Avengers Alliance - Thanos_13
+  - first:
+      213: 6355296439459063777
+    second: Browser Games - Marvel Avengers Alliance - Thanos_14
+  - first:
+      213: -9153815694934843897
+    second: Browser Games - Marvel Avengers Alliance - Thanos_15
+  - first:
+      213: -3097633545650172280
+    second: Browser Games - Marvel Avengers Alliance - Thanos_16
+  - first:
+      213: -7173930639538655668
+    second: Browser Games - Marvel Avengers Alliance - Thanos_17
+  - first:
+      213: -9073231222224221657
+    second: Browser Games - Marvel Avengers Alliance - Thanos_18
+  - first:
+      213: 8343417868181055754
+    second: Browser Games - Marvel Avengers Alliance - Thanos_19
+  - first:
+      213: -5321495568586637886
+    second: Browser Games - Marvel Avengers Alliance - Thanos_20
+  - first:
+      213: -4825302009605159699
+    second: Browser Games - Marvel Avengers Alliance - Thanos_21
+  - first:
+      213: 7800071667859694216
+    second: Browser Games - Marvel Avengers Alliance - Thanos_22
+  - first:
+      213: -88820864801944289
+    second: Browser Games - Marvel Avengers Alliance - Thanos_23
+  - first:
+      213: 1003479373675717991
+    second: Browser Games - Marvel Avengers Alliance - Thanos_24
+  - first:
+      213: -8956981737414826041
+    second: Browser Games - Marvel Avengers Alliance - Thanos_25
+  - first:
+      213: 1513733708437296806
+    second: Browser Games - Marvel Avengers Alliance - Thanos_26
+  - first:
+      213: -2563801386627313844
+    second: Browser Games - Marvel Avengers Alliance - Thanos_27
+  - first:
+      213: 6847019448801507252
+    second: Browser Games - Marvel Avengers Alliance - Thanos_28
+  - first:
+      213: -12332367150042537
+    second: Browser Games - Marvel Avengers Alliance - Thanos_29
+  - first:
+      213: -368942019204361465
+    second: Browser Games - Marvel Avengers Alliance - Thanos_30
+  - first:
+      213: -4740245421843163835
+    second: Browser Games - Marvel Avengers Alliance - Thanos_31
+  - first:
+      213: 1177198922733813970
+    second: Browser Games - Marvel Avengers Alliance - Thanos_32
+  - first:
+      213: -8938100474150097562
+    second: Browser Games - Marvel Avengers Alliance - Thanos_33
+  - first:
+      213: 5807646418047138885
+    second: Browser Games - Marvel Avengers Alliance - Thanos_34
+  - first:
+      213: -4074537313690302556
+    second: Browser Games - Marvel Avengers Alliance - Thanos_35
+  - first:
+      213: 2913033167664448489
+    second: Browser Games - Marvel Avengers Alliance - Thanos_36
+  - first:
+      213: 175701417617766973
+    second: Browser Games - Marvel Avengers Alliance - Thanos_37
+  - first:
+      213: -4122600991641835782
+    second: Browser Games - Marvel Avengers Alliance - Thanos_38
+  - first:
+      213: -5649140155766703156
+    second: Browser Games - Marvel Avengers Alliance - Thanos_39
+  - first:
+      213: 5286360966526334344
+    second: Browser Games - Marvel Avengers Alliance - Thanos_40
+  - first:
+      213: -4584050631074742184
+    second: Browser Games - Marvel Avengers Alliance - Thanos_41
+  - first:
+      213: 5494236696154966879
+    second: Browser Games - Marvel Avengers Alliance - Thanos_42
+  - first:
+      213: -1495196141215728563
+    second: Browser Games - Marvel Avengers Alliance - Thanos_43
+  - first:
+      213: -5318654921730189922
+    second: Browser Games - Marvel Avengers Alliance - Thanos_44
+  - first:
+      213: 3819720844891947092
+    second: Browser Games - Marvel Avengers Alliance - Thanos_45
+  - first:
+      213: -3143823306544721564
+    second: Browser Games - Marvel Avengers Alliance - Thanos_46
+  - first:
+      213: 939557642894930161
+    second: Browser Games - Marvel Avengers Alliance - Thanos_47
+  - first:
+      213: 1922929415108395020
+    second: Browser Games - Marvel Avengers Alliance - Thanos_48
+  - first:
+      213: -4309885995575707749
+    second: Browser Games - Marvel Avengers Alliance - Thanos_49
+  - first:
+      213: 3101640378138533775
+    second: Browser Games - Marvel Avengers Alliance - Thanos_50
+  - first:
+      213: 3214828629218374287
+    second: Browser Games - Marvel Avengers Alliance - Thanos_51
+  - first:
+      213: 6893020646866775608
+    second: Browser Games - Marvel Avengers Alliance - Thanos_52
+  - first:
+      213: -8508144330494994467
+    second: Browser Games - Marvel Avengers Alliance - Thanos_53
+  - first:
+      213: 8683857532176031946
+    second: Browser Games - Marvel Avengers Alliance - Thanos_54
+  - first:
+      213: -6631731416076111498
+    second: Browser Games - Marvel Avengers Alliance - Thanos_55
+  - first:
+      213: -3935650552981340126
+    second: Browser Games - Marvel Avengers Alliance - Thanos_56
+  - first:
+      213: 6717572851694509643
+    second: Browser Games - Marvel Avengers Alliance - Thanos_57
+  - first:
+      213: -8389199908810494338
+    second: Browser Games - Marvel Avengers Alliance - Thanos_58
+  - first:
+      213: 2268448688738095818
+    second: Browser Games - Marvel Avengers Alliance - Thanos_59
+  - first:
+      213: 1174373991444809794
+    second: Browser Games - Marvel Avengers Alliance - Thanos_60
+  - first:
+      213: 1881924840870987977
+    second: Browser Games - Marvel Avengers Alliance - Thanos_61
+  - first:
+      213: 3684445608850552387
+    second: Browser Games - Marvel Avengers Alliance - Thanos_62
+  - first:
+      213: -3610209221033386230
+    second: Browser Games - Marvel Avengers Alliance - Thanos_63
+  - first:
+      213: 5364320578123906268
+    second: Browser Games - Marvel Avengers Alliance - Thanos_64
+  - first:
+      213: 2837380368192969316
+    second: Browser Games - Marvel Avengers Alliance - Thanos_65
+  - first:
+      213: 7930083812600045313
+    second: Browser Games - Marvel Avengers Alliance - Thanos_66
+  - first:
+      213: 6910153790181043314
+    second: Browser Games - Marvel Avengers Alliance - Thanos_67
+  - first:
+      213: -5234097915435214684
+    second: Browser Games - Marvel Avengers Alliance - Thanos_68
+  - first:
+      213: 3157374801924365343
+    second: Browser Games - Marvel Avengers Alliance - Thanos_69
+  - first:
+      213: 48430603569580524
+    second: Browser Games - Marvel Avengers Alliance - Thanos_70
+  - first:
+      213: -5934633633071125209
+    second: Browser Games - Marvel Avengers Alliance - Thanos_71
+  - first:
+      213: -423349254802270716
+    second: Browser Games - Marvel Avengers Alliance - Thanos_72
+  - first:
+      213: -210326651126322268
+    second: Browser Games - Marvel Avengers Alliance - Thanos_73
+  - first:
+      213: 6619523083908287443
+    second: Browser Games - Marvel Avengers Alliance - Thanos_74
+  - first:
+      213: 1358695357891556158
+    second: Browser Games - Marvel Avengers Alliance - Thanos_75
+  - first:
+      213: -5551429287445604945
+    second: Browser Games - Marvel Avengers Alliance - Thanos_76
+  - first:
+      213: -7480581076016354557
+    second: Browser Games - Marvel Avengers Alliance - Thanos_77
+  - first:
+      213: 2449500231083001472
+    second: Browser Games - Marvel Avengers Alliance - Thanos_78
+  - first:
+      213: 661933848122084528
+    second: Browser Games - Marvel Avengers Alliance - Thanos_79
+  - first:
+      213: -6719793560722802803
+    second: Browser Games - Marvel Avengers Alliance - Thanos_80
+  - first:
+      213: 848697035879206192
+    second: Browser Games - Marvel Avengers Alliance - Thanos_81
+  - first:
+      213: 9140508334218838658
+    second: Browser Games - Marvel Avengers Alliance - Thanos_82
+  - first:
+      213: -6710527072041273380
+    second: Browser Games - Marvel Avengers Alliance - Thanos_83
+  - first:
+      213: -2825021438526288903
+    second: Browser Games - Marvel Avengers Alliance - Thanos_84
+  - first:
+      213: -927805906481400113
+    second: Browser Games - Marvel Avengers Alliance - Thanos_85
+  - first:
+      213: -4218534854199845486
+    second: Browser Games - Marvel Avengers Alliance - Thanos_86
+  - first:
+      213: -2768219859217854292
+    second: Browser Games - Marvel Avengers Alliance - Thanos_87
+  - first:
+      213: -5781748214201695313
+    second: Browser Games - Marvel Avengers Alliance - Thanos_88
+  - first:
+      213: 4322290358869289764
+    second: Browser Games - Marvel Avengers Alliance - Thanos_89
+  - first:
+      213: 262096486055630645
+    second: Browser Games - Marvel Avengers Alliance - Thanos_90
+  - first:
+      213: 738482982608727911
+    second: Browser Games - Marvel Avengers Alliance - Thanos_91
+  - first:
+      213: -1433689303181815945
+    second: Browser Games - Marvel Avengers Alliance - Thanos_92
+  - first:
+      213: -7199543748089154755
+    second: Browser Games - Marvel Avengers Alliance - Thanos_93
+  - first:
+      213: 790955760527761452
+    second: Browser Games - Marvel Avengers Alliance - Thanos_94
+  - first:
+      213: 6178284589918264024
+    second: Browser Games - Marvel Avengers Alliance - Thanos_95
+  - first:
+      213: -1355750399398332483
+    second: Browser Games - Marvel Avengers Alliance - Thanos_96
+  - first:
+      213: 9086809013866872845
+    second: Browser Games - Marvel Avengers Alliance - Thanos_97
+  - first:
+      213: -3137000578689874456
+    second: Browser Games - Marvel Avengers Alliance - Thanos_98
+  - first:
+      213: 8826671299823122322
+    second: Browser Games - Marvel Avengers Alliance - Thanos_99
+  - first:
+      213: -241988311790703353
+    second: Browser Games - Marvel Avengers Alliance - Thanos_100
+  - first:
+      213: -1498878955125040481
+    second: Browser Games - Marvel Avengers Alliance - Thanos_101
+  - first:
+      213: -524978740589635809
+    second: Browser Games - Marvel Avengers Alliance - Thanos_102
+  - first:
+      213: 5571389808385469604
+    second: Browser Games - Marvel Avengers Alliance - Thanos_103
+  - first:
+      213: -6005787175115442615
+    second: Browser Games - Marvel Avengers Alliance - Thanos_104
+  - first:
+      213: 372261925423450934
+    second: Browser Games - Marvel Avengers Alliance - Thanos_105
+  - first:
+      213: 4232971163698873406
+    second: Browser Games - Marvel Avengers Alliance - Thanos_106
+  - first:
+      213: -780194360878642053
+    second: Browser Games - Marvel Avengers Alliance - Thanos_107
+  - first:
+      213: -3578992307770322762
+    second: Browser Games - Marvel Avengers Alliance - Thanos_108
+  - first:
+      213: -1742893914204576471
+    second: Browser Games - Marvel Avengers Alliance - Thanos_109
+  - first:
+      213: -5668712782213574329
+    second: Browser Games - Marvel Avengers Alliance - Thanos_110
+  - first:
+      213: -7339206717434053635
+    second: Browser Games - Marvel Avengers Alliance - Thanos_111
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1387
+        width: 201
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b0f8044d149f050800000000000000
+      internalID: 5834767172107176855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_1
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1640
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1f2ade708ec200800000000000000
+      internalID: 202240315593006196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1404
+        width: 565
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ef69bb370bdbe0800000000000000
+      internalID: -1451558501801270072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_3
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1508
+        width: 50
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb60b2d30ea9464d0800000000000000
+      internalID: -3142216352108181828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_4
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1526
+        width: 110
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e6c14966a1f7e40800000000000000
+      internalID: 5656268684874509962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_5
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1557
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5269f10539f3bd00800000000000000
+      internalID: 987406749385974362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1475
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8498d774e448276f0800000000000000
+      internalID: -688342321292539576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 1308
+        width: 82
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cb15df9b28afea0800000000000000
+      internalID: -5838210231601873869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1301
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd7a3fe1068c840800000000000000
+      internalID: 5244547452126092396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1322
+        width: 50
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606d07481ef394110800000000000000
+      internalID: 1245597009766831622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1348
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c83a483179a3310800000000000000
+      internalID: 1385585945455332484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_11
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1351
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6adc7162d0fbd2770800000000000000
+      internalID: 8587730127659978150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_12
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1351
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19612f7fc5b950d0800000000000000
+      internalID: -3433513338097538788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1351
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704714639d4f385c0800000000000000
+      internalID: -4214255612533312505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_14
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7234c907c823850800000000000000
+      internalID: 6355296439459063777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_15
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1351
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e530cdf1d17f080800000000000000
+      internalID: -9153815694934843897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1351
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e0033c3bef205d0800000000000000
+      internalID: -3097633545650172280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_17
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1325
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee10ba714117c90800000000000000
+      internalID: -7173930639538655668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_18
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1325
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a87528648651280800000000000000
+      internalID: -9073231222224221657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_19
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1325
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0924958856c9c370800000000000000
+      internalID: 8343417868181055754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_20
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 1325
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdf39099ff3626b0800000000000000
+      internalID: -5321495568586637886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_21
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1327
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de481874365190db0800000000000000
+      internalID: -4825302009605159699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_22
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1334
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882ad59fadb6f3c60800000000000000
+      internalID: 7800071667859694216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d46d0e4e174cef0800000000000000
+      internalID: -88820864801944289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_24
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1334
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7656f577c231ded00800000000000000
+      internalID: 1003479373675717991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_25
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c76ab1e09862b380800000000000000
+      internalID: -8956981737414826041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_26
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1334
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a690f7a9ccd10510800000000000000
+      internalID: 1513733708437296806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_27
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1334
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4fcc63f83c8b6cd0800000000000000
+      internalID: -2563801386627313844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_28
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7310069ef750f50800000000000000
+      internalID: 6847019448801507252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75238c407cf24dff0800000000000000
+      internalID: -12332367150042537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_30
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 1334
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703db92303141eaf0800000000000000
+      internalID: -368942019204361465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_31
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1331
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545ddda57e3473eb0800000000000000
+      internalID: -4740245421843163835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_32
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d08583ee20465010800000000000000
+      internalID: 1177198922733813970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_33
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1334
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66d688f89fc75f380800000000000000
+      internalID: -8938100474150097562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_34
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf4c0a5a7e89050800000000000000
+      internalID: 5807646418047138885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_35
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 1334
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a74a69a6e55477c0800000000000000
+      internalID: -4074537313690302556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_36
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1334
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e302996b3c2d6820800000000000000
+      internalID: 2913033167664448489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_37
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1334
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ab3a72287307200800000000000000
+      internalID: 175701417617766973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_38
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af6e3869d3499c6c0800000000000000
+      internalID: -4122600991641835782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_39
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1334
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb712175f83a91b0800000000000000
+      internalID: -5649140155766703156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_40
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1317
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885fa4c6a4dec5940800000000000000
+      internalID: 5286360966526334344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_41
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1317
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85082660d3e2260c0800000000000000
+      internalID: -4584050631074742184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_42
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1315
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b8b3a5a237f3c40800000000000000
+      internalID: 5494236696154966879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_43
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1317
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c3d4d080fff3be0800000000000000
+      internalID: -1495196141215728563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_44
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95936337875036b0800000000000000
+      internalID: -5318654921730189922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_45
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 1317
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45080f4eedf520530800000000000000
+      internalID: 3819720844891947092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_46
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 1314
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 461dec00c55ee54d0800000000000000
+      internalID: -3143823306544721564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_47
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f071ceb2baf90d00800000000000000
+      internalID: 939557642894930161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_48
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1317
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c008fab6d1e9faa10800000000000000
+      internalID: 1922929415108395020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_49
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1317
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97774395853034c0800000000000000
+      internalID: -4309885995575707749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_50
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1317
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f94ff9d7d3b0b20800000000000000
+      internalID: 3101640378138533775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_51
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 1317
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82315afa9d5d9c20800000000000000
+      internalID: 3214828629218374287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_52
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1317
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e6dede1cde8af50800000000000000
+      internalID: 6893020646866775608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_53
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1317
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7971b3fcffce980800000000000000
+      internalID: -8508144330494994467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_54
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1317
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e37d9a62438870800000000000000
+      internalID: 8683857532176031946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_55
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1003
+        width: 203
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6713cfad96b57f3a0800000000000000
+      internalID: -6631731416076111498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_56
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1003
+        width: 202
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204a7d8ca2c169c0800000000000000
+      internalID: -3935650552981340126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_57
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1003
+        width: 201
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e1f0adaec993d50800000000000000
+      internalID: 6717572851694509643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_58
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1003
+        width: 203
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e6c9d7123939b80800000000000000
+      internalID: -8389199908810494338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_59
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1003
+        width: 201
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac25f6b40162b7f10800000000000000
+      internalID: 2268448688738095818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 912
+        width: 83
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24886815ce63c4010800000000000000
+      internalID: 1174373991444809794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_61
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 912
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c849120ca0fd1a10800000000000000
+      internalID: 1881924840870987977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 914
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346f8cd92c7c12330800000000000000
+      internalID: 3684445608850552387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 914
+        width: 82
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f177757d5f5edc0800000000000000
+      internalID: -3610209221033386230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_64
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 914
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb468f425e17a40800000000000000
+      internalID: 5364320578123906268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_65
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 913
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46a1fca6966606720800000000000000
+      internalID: 2837380368192969316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_66
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 913
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd91156315d0e60800000000000000
+      internalID: 7930083812600045313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_67
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 913
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c6f07b24cc5ef50800000000000000
+      internalID: 6910153790181043314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_68
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 914
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81fd66dafbc57b0800000000000000
+      internalID: -5234097915435214684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_69
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 913
+        width: 85
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c987367af31db20800000000000000
+      internalID: 3157374801924365343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_70
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 913
+        width: 84
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9c50a906f0ca000800000000000000
+      internalID: 48430603569580524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_71
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 912
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72da5bc5722f3ada0800000000000000
+      internalID: -5934633633071125209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 643
+        width: 205
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40695938816ff1af0800000000000000
+      internalID: -423349254802270716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_73
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 643
+        width: 215
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab61d07605c41df0800000000000000
+      internalID: -210326651126322268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_74
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 643
+        width: 255
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db0ade4c254ddb50800000000000000
+      internalID: 6619523083908287443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_75
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 643
+        width: 235
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e333915ba3e0bd210800000000000000
+      internalID: 1358695357891556158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_76
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 361
+        width: 199
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5da1ec97c55f2b0800000000000000
+      internalID: -5551429287445604945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_77
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 361
+        width: 306
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b298a2523af2890800000000000000
+      internalID: -7480581076016354557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_78
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 361
+        width: 198
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08680fe6b7f5ef120800000000000000
+      internalID: 2449500231083001472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_79
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 3
+        width: 216
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bccf1ae359af2900800000000000000
+      internalID: 661933848122084528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_80
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 183
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87f8290c5f7eb2a0800000000000000
+      internalID: -6719793560722802803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_81
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 174
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dc181257d27cb00800000000000000
+      internalID: 848697035879206192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_82
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 198
+        width: 76
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2828c97c6eb99de70800000000000000
+      internalID: 9140508334218838658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_83
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 3
+        width: 199
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7765f8e2b6fd2a0800000000000000
+      internalID: -6710527072041273380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_84
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 40
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb07c128f18bc8d0800000000000000
+      internalID: -2825021438526288903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_85
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3
+        width: 156
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6baab9175cf13f0800000000000000
+      internalID: -927805906481400113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_86
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 57
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d50de96e0c475c0800000000000000
+      internalID: -4218534854199845486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_87
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 93
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0532764be4599d0800000000000000
+      internalID: -2768219859217854292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_88
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 91
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa342c7d1aa13cfa0800000000000000
+      internalID: -5781748214201695313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_89
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 91
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bef705e2cdbfb30800000000000000
+      internalID: 4322290358869289764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_90
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 93
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537593c8d5723a300800000000000000
+      internalID: 262096486055630645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_91
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 93
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f601b2c5e9f3a00800000000000000
+      internalID: 738482982608727911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_92
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 93
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f029dbc238a1ce0800000000000000
+      internalID: -1433689303181815945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_93
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 90
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f24e1b15161c90800000000000000
+      internalID: -7199543748089154755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_94
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 59
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c206e43d21a0afa00800000000000000
+      internalID: 790955760527761452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_95
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da195fb91dadb550800000000000000
+      internalID: 6178284589918264024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_96
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 56
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7b4cfd1386f2de0800000000000000
+      internalID: -1355750399398332483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_97
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 56
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d004a5577a4da1e70800000000000000
+      internalID: 9086809013866872845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_98
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 59
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5cefe18922774d0800000000000000
+      internalID: -3137000578689874456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_99
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 40
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297b71f08c2ae7a70800000000000000
+      internalID: 8826671299823122322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_100
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d2beb99e844acf0800000000000000
+      internalID: -241988311790703353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_101
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9a967e1889e23be0800000000000000
+      internalID: -1498878955125040481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_102
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 43
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d58ced96e6b8f0800000000000000
+      internalID: -524978740589635809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_103
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac2c02238d815d40800000000000000
+      internalID: 5571389808385469604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_104
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 40
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946b5ae526827aca0800000000000000
+      internalID: -6005787175115442615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_105
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b8444bf3a8a2500800000000000000
+      internalID: 372261925423450934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_106
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e344ebc98d88eba30800000000000000
+      internalID: 4232971163698873406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_107
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc018cc513c25f0800000000000000
+      internalID: -780194360878642053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_108
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 43
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b09e79557dd45ec0800000000000000
+      internalID: -3578992307770322762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_109
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 43
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92565a2283fffc7e0800000000000000
+      internalID: -1742893914204576471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_110
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 43
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741917a32cfa451b0800000000000000
+      internalID: -5668712782213574329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Thanos_111
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 43
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbbe221066e52a90800000000000000
+      internalID: -7339206717434053635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2952 @@
+fileFormatVersion: 2
+guid: 5b4db20f94e5aee4cafb8b9d9f48e4b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1125933477458059776
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_0
+  - first:
+      213: -7393274257452379992
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_1
+  - first:
+      213: -27802736386496362
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_2
+  - first:
+      213: -7794758352912316095
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_3
+  - first:
+      213: -3253393132405845476
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_4
+  - first:
+      213: 2055104275957351622
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_5
+  - first:
+      213: 2846654400822492573
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_6
+  - first:
+      213: -1240542807017199490
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_7
+  - first:
+      213: -1911299017169736746
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_8
+  - first:
+      213: -1830601260971658856
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_9
+  - first:
+      213: -135836639471561547
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_10
+  - first:
+      213: 8923004045059415115
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_11
+  - first:
+      213: 6466352569211730876
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_12
+  - first:
+      213: 7822901591932809506
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_13
+  - first:
+      213: -6353298068873316919
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_14
+  - first:
+      213: 1346394164931188489
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_15
+  - first:
+      213: 6365770871506583597
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_16
+  - first:
+      213: -178554459922158010
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_17
+  - first:
+      213: 5705041766388839467
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_18
+  - first:
+      213: -5713618125326688315
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_19
+  - first:
+      213: -3905624459393774020
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_20
+  - first:
+      213: 1303447671499679676
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_21
+  - first:
+      213: -8930833646546518990
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_22
+  - first:
+      213: 1309679592886383298
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_23
+  - first:
+      213: 4711674230917255680
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_24
+  - first:
+      213: 829951398073401104
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_25
+  - first:
+      213: 4473848533338535489
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_26
+  - first:
+      213: -3171078510452795424
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_27
+  - first:
+      213: 1867644624717587882
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_28
+  - first:
+      213: 7893081136404588489
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_29
+  - first:
+      213: 840340888237801240
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_30
+  - first:
+      213: -1341715995281858424
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_31
+  - first:
+      213: 2486459779904879789
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_32
+  - first:
+      213: 470991473997131998
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_33
+  - first:
+      213: -7920105729108250352
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_34
+  - first:
+      213: 7427743932291614920
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_35
+  - first:
+      213: 3998289892540857445
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_36
+  - first:
+      213: 6943370592339014786
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_37
+  - first:
+      213: 1878575158527320659
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_38
+  - first:
+      213: 2297699589767365572
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_39
+  - first:
+      213: -5116330428968206086
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_40
+  - first:
+      213: -6932467115185663610
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_41
+  - first:
+      213: 355255701908225656
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_42
+  - first:
+      213: -3559883098962924810
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_43
+  - first:
+      213: 321374339956445046
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_44
+  - first:
+      213: 760250230792842704
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_45
+  - first:
+      213: -7115038645996778195
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_46
+  - first:
+      213: -5654407533365010026
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_47
+  - first:
+      213: 3742637550951228193
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_48
+  - first:
+      213: -8085653495049070365
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_49
+  - first:
+      213: -2311746426834890413
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_50
+  - first:
+      213: 8838472036775612138
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_51
+  - first:
+      213: -5259894708452503948
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_52
+  - first:
+      213: 2653173713839817827
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_53
+  - first:
+      213: -1248992035603447025
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_54
+  - first:
+      213: 6900928620254390777
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_55
+  - first:
+      213: -2602601537533934939
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_56
+  - first:
+      213: 8020803949065867202
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_57
+  - first:
+      213: 4623963916857055636
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_58
+  - first:
+      213: -4757313480921908194
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_59
+  - first:
+      213: 1303141049136373483
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_60
+  - first:
+      213: -9174593933668409787
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_61
+  - first:
+      213: 1828195710029499626
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_62
+  - first:
+      213: 310493863620758668
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_63
+  - first:
+      213: 2205275861484561385
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_64
+  - first:
+      213: -4978110681479297098
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_65
+  - first:
+      213: 3195892309989753656
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_66
+  - first:
+      213: -7783999266472770427
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_67
+  - first:
+      213: 6836566422954730876
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_68
+  - first:
+      213: -3685010259501952831
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_69
+  - first:
+      213: 7767270176887123562
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_70
+  - first:
+      213: 8463404707593115763
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_71
+  - first:
+      213: -2691450653113196659
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_72
+  - first:
+      213: 1264550987149214691
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_73
+  - first:
+      213: 7179184501024224345
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_74
+  - first:
+      213: -1066288741290627751
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_75
+  - first:
+      213: -9193837960911598992
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_76
+  - first:
+      213: 2810716157045763183
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_77
+  - first:
+      213: -602899226572944826
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_78
+  - first:
+      213: -4699174634074694178
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_79
+  - first:
+      213: -8582480473084825551
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_80
+  - first:
+      213: 701395207175099037
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_81
+  - first:
+      213: 2107068351465104648
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_82
+  - first:
+      213: -1276844990509846207
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_83
+  - first:
+      213: 6265203433623162977
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_84
+  - first:
+      213: 4095552459832613443
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_85
+  - first:
+      213: -790678484223847112
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_86
+  - first:
+      213: 5759716087413253285
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_87
+  - first:
+      213: -7082481777404152344
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_88
+  - first:
+      213: 2992872157154095783
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_89
+  - first:
+      213: -5014754246566421788
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_90
+  - first:
+      213: -5073720625753290546
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_91
+  - first:
+      213: -4506865408502575481
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_92
+  - first:
+      213: -6890276903107363011
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_93
+  - first:
+      213: 1513742150673654371
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_94
+  - first:
+      213: -1627625313660304139
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_95
+  - first:
+      213: 4226615599975190167
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_96
+  - first:
+      213: -6558373506725464127
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_97
+  - first:
+      213: 8767524601671629998
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_98
+  - first:
+      213: 6654115537750973125
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_99
+  - first:
+      213: -2187147541728235605
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_100
+  - first:
+      213: -1975577756572964622
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_101
+  - first:
+      213: -5468611882973494358
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_102
+  - first:
+      213: -4366679650524409025
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_103
+  - first:
+      213: 1511362201402860179
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_104
+  - first:
+      213: 989443055387732501
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_105
+  - first:
+      213: 939423245059304278
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_106
+  - first:
+      213: 2585118997418191972
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_107
+  - first:
+      213: 1843632941685331159
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_108
+  - first:
+      213: -3749132101306218768
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_109
+  - first:
+      213: -4724643869127886693
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_110
+  - first:
+      213: -1068971006294282806
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_111
+  - first:
+      213: 647863869387222731
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_112
+  - first:
+      213: -7214351148139048314
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_113
+  - first:
+      213: 2162878796827816957
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_114
+  - first:
+      213: 7635145370019631677
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_115
+  - first:
+      213: -971233225799263074
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_116
+  - first:
+      213: -9155682719949307756
+    second: Browser Games - Marvel Avengers Alliance - Loki Beta_117
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 944
+        width: 160
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e546bb771ef50f0800000000000000
+      internalID: -1125933477458059776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1152
+        width: 82
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0d28deb30d56990800000000000000
+      internalID: -7393274257452379992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 943
+        width: 72
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69826edfe893d9ff0800000000000000
+      internalID: -27802736386496362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1129
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14907a0939473d390800000000000000
+      internalID: -7794758352912316095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_4
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 918
+        width: 187
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12114cee20a9d2d0800000000000000
+      internalID: -3253393132405845476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_5
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 918
+        width: 261
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c403d85372358c10800000000000000
+      internalID: 2055104275957351622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_6
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 918
+        width: 265
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9db3576819518720800000000000000
+      internalID: 2846654400822492573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_7
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 919
+        width: 246
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78e213c3e4b8cee0800000000000000
+      internalID: -1240542807017199490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_8
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 919
+        width: 250
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db6b0e9ba3b975e0800000000000000
+      internalID: -1911299017169736746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_9
+      rect:
+        serializedVersion: 2
+        x: 2122
+        y: 918
+        width: 180
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 891f6622ad56896e0800000000000000
+      internalID: -1830601260971658856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_10
+      rect:
+        serializedVersion: 2
+        x: 2316
+        y: 918
+        width: 180
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b490dccb496d1ef0800000000000000
+      internalID: -135836639471561547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_11
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 983
+        width: 133
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd32327e0e4db70800000000000000
+      internalID: 8923004045059415115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_12
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1055
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbbc48c6691db950800000000000000
+      internalID: 6466352569211730876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1071
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2213ef3ec87809c60800000000000000
+      internalID: 7822901591932809506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_14
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1072
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c571ac411d84d7a0800000000000000
+      internalID: -6353298068873316919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 918
+        width: 195
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907d1680c5a5fa210800000000000000
+      internalID: 1346394164931188489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 918
+        width: 67
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20cdad51e2c75850800000000000000
+      internalID: 6365770871506583597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_17
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1031
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e274b2aa5a58df0800000000000000
+      internalID: -178554459922158010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 890
+        width: 152
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24bf5a82416c2f40800000000000000
+      internalID: 5705041766388839467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_19
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 921
+        width: 82
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf5ba9469625b0b0800000000000000
+      internalID: -5713618125326688315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_20
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 621
+        width: 292
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ec1cf3f3f6cc9c0800000000000000
+      internalID: -3905624459393774020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_21
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 866
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb76c0350c6c61210800000000000000
+      internalID: 1303447671499679676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_22
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 621
+        width: 292
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cfc75bd1e4f0480800000000000000
+      internalID: -8930833646546518990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 621
+        width: 457
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2329796aaec2210800000000000000
+      internalID: 1309679592886383298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_24
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 621
+        width: 459
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0025f2fdfba336140800000000000000
+      internalID: 4711674230917255680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_25
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 621
+        width: 451
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ff0073664948b00800000000000000
+      internalID: 829951398073401104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_26
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 621
+        width: 451
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146bb80a98d461e30800000000000000
+      internalID: 4473848533338535489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_27
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 431
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7169555e01ef3d0800000000000000
+      internalID: -3171078510452795424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 326
+        width: 229
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5a5f614e43be910800000000000000
+      internalID: 1867644624717587882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_29
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 289
+        width: 207
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c76bb6697bd98d60800000000000000
+      internalID: 7893081136404588489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_30
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 289
+        width: 206
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f76a5e59d79ab00800000000000000
+      internalID: 840340888237801240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_31
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 407
+        width: 79
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880e3c73964416de0800000000000000
+      internalID: -1341715995281858424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_32
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 411
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacb689fefda18220800000000000000
+      internalID: 2486459779904879789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_33
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 302
+        width: 191
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed036db004c498600800000000000000
+      internalID: 470991473997131998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_34
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 301
+        width: 306
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01177f84dc1261290800000000000000
+      internalID: -7920105729108250352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_35
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 297
+        width: 307
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c80ec6a0c5a41760800000000000000
+      internalID: 7427743932291614920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_36
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 321
+        width: 306
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cbee13977cc7730800000000000000
+      internalID: 3998289892540857445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_37
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 340
+        width: 305
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b24424cecb5060800000000000000
+      internalID: 6943370592339014786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 231
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352e4ef472a021a10800000000000000
+      internalID: 1878575158527320659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_39
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 23
+        width: 196
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305a86a9113ef10800000000000000
+      internalID: 2297699589767365572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_40
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 27
+        width: 196
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af004d315942ff8b0800000000000000
+      internalID: -5116330428968206086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_41
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 28
+        width: 195
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681184673edeacf90800000000000000
+      internalID: -6932467115185663610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_42
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 0
+        width: 256
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87efbacbd2f1ee400800000000000000
+      internalID: 355255701908225656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_43
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 0
+        width: 268
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fae56cbe21c89ec0800000000000000
+      internalID: -3559883098962924810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_44
+      rect:
+        serializedVersion: 2
+        x: 2273
+        y: 183
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67f870d6240c57400800000000000000
+      internalID: 321374339956445046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_45
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 185
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dde0d29e83fc8a00800000000000000
+      internalID: 760250230792842704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_46
+      rect:
+        serializedVersion: 2
+        x: 2355
+        y: 182
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d8f2e6c0e424d90800000000000000
+      internalID: -7115038645996778195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_47
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 185
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6916c768e428781b0800000000000000
+      internalID: -5654407533365010026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_48
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 185
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236c73f50580f330800000000000000
+      internalID: 3742637550951228193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_49
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 185
+        width: 56
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e854b26cfcf9cf80800000000000000
+      internalID: -8085653495049070365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_50
+      rect:
+        serializedVersion: 2
+        x: 2462
+        y: 182
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3515ab97fd60befd0800000000000000
+      internalID: -2311746426834890413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_51
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 61
+        width: 195
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeecb3d3d7f88aa70800000000000000
+      internalID: 8838472036775612138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_52
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 168
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e4bba71a91107b0800000000000000
+      internalID: -5259894708452503948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_53
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 168
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36483d48f67f1d420800000000000000
+      internalID: 2653173713839817827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_54
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 166
+        width: 67
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03809e6c50baaee0800000000000000
+      internalID: -1248992035603447025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_55
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 168
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9e696740605cf50800000000000000
+      internalID: 6900928620254390777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_56
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 168
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28767d0b3b1ebd0800000000000000
+      internalID: -2602601537533934939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_57
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 168
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf0f1512be9f4f60800000000000000
+      internalID: 8020803949065867202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_58
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 5
+        width: 114
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4991d7efeae9b2040800000000000000
+      internalID: 4623963916857055636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_59
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 80
+        width: 181
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf87c2890aafdb0800000000000000
+      internalID: -4757313480921908194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_60
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 86
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beed00e31efa51210800000000000000
+      internalID: 1303141049136373483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_61
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 149
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e9d392d6b4da080800000000000000
+      internalID: -9174593933668409787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_62
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 152
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec8334ef4e0f5910800000000000000
+      internalID: 1828195710029499626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_63
+      rect:
+        serializedVersion: 2
+        x: 2313
+        y: 148
+        width: 61
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ccd0e16881f4400800000000000000
+      internalID: 310493863620758668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_64
+      rect:
+        serializedVersion: 2
+        x: 2381
+        y: 152
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3e78346b6ba9e10800000000000000
+      internalID: 2205275861484561385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_65
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 152
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b749d9d5b23aeab0800000000000000
+      internalID: -4978110681479297098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_66
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 152
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83387559f171a5c20800000000000000
+      internalID: 3195892309989753656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_67
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 113
+        width: 100
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5844df598eda9f390800000000000000
+      internalID: -7783999266472770427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_68
+      rect:
+        serializedVersion: 2
+        x: 2267
+        y: 131
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c756493a0fc50ee50800000000000000
+      internalID: 6836566422954730876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_69
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 131
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c057b861b63cdcc0800000000000000
+      internalID: -3685010259501952831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_70
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 131
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ea7d7b213eacb60800000000000000
+      internalID: 7767270176887123562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_71
+      rect:
+        serializedVersion: 2
+        x: 2311
+        y: 131
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d4729dbd047570800000000000000
+      internalID: 8463404707593115763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_72
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 131
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fd1b214eb06aad0800000000000000
+      internalID: -2691450653113196659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_73
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 131
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e306654c669c8110800000000000000
+      internalID: 1264550987149214691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_74
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 131
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f988444691a360800000000000000
+      internalID: 7179184501024224345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_75
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 131
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95daf5b0a08c331f0800000000000000
+      internalID: -1066288741290627751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_76
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 131
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07acc59e51de86080800000000000000
+      internalID: -9193837960911598992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_77
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 131
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce929f37ba10720800000000000000
+      internalID: 2810716157045763183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_78
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 119
+        width: 99
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a03c4095212a7f0800000000000000
+      internalID: -602899226572944826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_79
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 116
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd937e419d29ceb0800000000000000
+      internalID: -4699174634074694178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_80
+      rect:
+        serializedVersion: 2
+        x: 2283
+        y: 116
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1307d0e4b77e4e880800000000000000
+      internalID: -8582480473084825551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_81
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 114
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9255da893bdbb900800000000000000
+      internalID: 701395207175099037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_82
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 116
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805ab8e708fcd3d10800000000000000
+      internalID: 2107068351465104648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_83
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 116
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1417c630f3cb74ee0800000000000000
+      internalID: -1276844990509846207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_84
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 116
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1609aa2145972f650800000000000000
+      internalID: 6265203433623162977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_85
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 116
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34adc47534356d830800000000000000
+      internalID: 4095552459832613443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_86
+      rect:
+        serializedVersion: 2
+        x: 2419
+        y: 116
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8351b489b12f605f0800000000000000
+      internalID: -790678484223847112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_87
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 116
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4ae55e34f9eef40800000000000000
+      internalID: 5759716087413253285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_88
+      rect:
+        serializedVersion: 2
+        x: 2438
+        y: 116
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5f5a91958f5bd90800000000000000
+      internalID: -7082481777404152344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_89
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 101
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a2b359be51d88920800000000000000
+      internalID: 2992872157154095783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_90
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 99
+        width: 74
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ead6810593086ab0800000000000000
+      internalID: -5014754246566421788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_91
+      rect:
+        serializedVersion: 2
+        x: 2367
+        y: 101
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8076cf8f58699b0800000000000000
+      internalID: -5073720625753290546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_92
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 99
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e45b31ac56471c0800000000000000
+      internalID: -4506865408502575481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_93
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 101
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ff432b9a1d060a0800000000000000
+      internalID: -6890276903107363011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_94
+      rect:
+        serializedVersion: 2
+        x: 2441
+        y: 101
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36260744774e10510800000000000000
+      internalID: 1513742150673654371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_95
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 86
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f408d796638969e0800000000000000
+      internalID: -1627625313660304139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_96
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 86
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e45ae9e74f7aa30800000000000000
+      internalID: 4226615599975190167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_97
+      rect:
+        serializedVersion: 2
+        x: 2323
+        y: 86
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7bb4b1b0afbf4a0800000000000000
+      internalID: -6558373506725464127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_98
+      rect:
+        serializedVersion: 2
+        x: 2348
+        y: 85
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacb2224c218ca970800000000000000
+      internalID: 8767524601671629998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_99
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 86
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cadd0a93da285c50800000000000000
+      internalID: 6654115537750973125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_100
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 86
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf6be716e0b5a1e0800000000000000
+      internalID: -2187147541728235605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_101
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 85
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f82e495f765594e0800000000000000
+      internalID: -1975577756572964622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_102
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 86
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa382e467769b14b0800000000000000
+      internalID: -5468611882973494358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_103
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 86
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33d0965eff6663c0800000000000000
+      internalID: -4366679650524409025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_104
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 85
+        width: 56
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392e1952aef69f410800000000000000
+      internalID: 1511362201402860179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_105
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 71
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51aecd177353bbd00800000000000000
+      internalID: 989443055387732501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_106
+      rect:
+        serializedVersion: 2
+        x: 2280
+        y: 71
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b218fc670890d00800000000000000
+      internalID: 939423245059304278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_107
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 71
+        width: 37
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ca937180030e320800000000000000
+      internalID: 2585118997418191972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_108
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 71
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4dc597466e59910800000000000000
+      internalID: 1843632941685331159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_109
+      rect:
+        serializedVersion: 2
+        x: 2352
+        y: 71
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f601a5b73868fbc0800000000000000
+      internalID: -3749132101306218768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_110
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 70
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98b76aee61be6eb0800000000000000
+      internalID: -4724643869127886693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_111
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 24
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd23ae88804a21f0800000000000000
+      internalID: -1068971006294282806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_112
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 18
+        width: 124
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcea2a5b1ccadf800800000000000000
+      internalID: 647863869387222731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_113
+      rect:
+        serializedVersion: 2
+        x: 2363
+        y: 5
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6829d32aad971eb90800000000000000
+      internalID: -7214351148139048314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_114
+      rect:
+        serializedVersion: 2
+        x: 2390
+        y: 8
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df375296ec6140e10800000000000000
+      internalID: 2162878796827816957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_115
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 5
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321d74e24c75f960800000000000000
+      internalID: 7635145370019631677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_116
+      rect:
+        serializedVersion: 2
+        x: 2429
+        y: 8
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c9d26e68c7582f0800000000000000
+      internalID: -971233225799263074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Loki Beta_117
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 8
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4904d39331b70f080800000000000000
+      internalID: -9155682719949307756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
