@@ -84,7 +84,7 @@ public class RangedEnemy : Enemy
     {
         anim.SetTrigger("Die");
         Destroy(this);
-        Destroy(gameObject, 5);
+        Destroy(gameObject, 2);
     }
 }
 
