@@ -1,0 +1,2760 @@
+fileFormatVersion: 2
+guid: b0ba42b7a8c02ae4fb23b3d45a73db7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3588223771689221478
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_0
+  - first:
+      213: 6692126130043389268
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_1
+  - first:
+      213: -6857156161868912050
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_2
+  - first:
+      213: -2071851765602893310
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_3
+  - first:
+      213: 5994502057849428634
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_4
+  - first:
+      213: -45672516601508745
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_5
+  - first:
+      213: 3478956674052747354
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_6
+  - first:
+      213: -273447036223796506
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_7
+  - first:
+      213: -2844997439471415659
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_8
+  - first:
+      213: 1605157374158847412
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_9
+  - first:
+      213: -4386271269780611946
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_10
+  - first:
+      213: 5468045973506147896
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_11
+  - first:
+      213: 370871707034614445
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_12
+  - first:
+      213: 3472446464654481634
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_13
+  - first:
+      213: -8627244546653705103
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_14
+  - first:
+      213: -8381633079536209497
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_15
+  - first:
+      213: -7619908917211150346
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_16
+  - first:
+      213: 571029010915155256
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_17
+  - first:
+      213: -1949241916072690652
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_18
+  - first:
+      213: -462544152459399531
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_19
+  - first:
+      213: 3809966279557665804
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_20
+  - first:
+      213: -4610829547014965086
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_21
+  - first:
+      213: 6118633138561858189
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_22
+  - first:
+      213: -7430252396768181606
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_23
+  - first:
+      213: 3701372057580432206
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_24
+  - first:
+      213: -447013872397380523
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_25
+  - first:
+      213: -1318327377968086705
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_26
+  - first:
+      213: 2809495571600393794
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_27
+  - first:
+      213: 6767010437898563139
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_28
+  - first:
+      213: 2250189229567524079
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_29
+  - first:
+      213: -3203313488480938074
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_30
+  - first:
+      213: -1401913419516485659
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_31
+  - first:
+      213: -7181387087827299761
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_32
+  - first:
+      213: 1112477144154880314
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_33
+  - first:
+      213: -6159054682832945908
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_34
+  - first:
+      213: -31124175725415551
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_35
+  - first:
+      213: -6576756814963807297
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_36
+  - first:
+      213: 7321822075050752950
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_37
+  - first:
+      213: -7133534396288326062
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_38
+  - first:
+      213: 5575178701267469839
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_39
+  - first:
+      213: -668281136607190688
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_40
+  - first:
+      213: -716406034632597788
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_41
+  - first:
+      213: 7423049047314955280
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_42
+  - first:
+      213: -5858522419373628892
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_43
+  - first:
+      213: 7909246828856920507
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_44
+  - first:
+      213: 2818229394826102088
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_45
+  - first:
+      213: 6862772986376471837
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_46
+  - first:
+      213: -1425411222421592338
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_47
+  - first:
+      213: 5395308510041909246
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_48
+  - first:
+      213: 2924359326664562306
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_49
+  - first:
+      213: -5352682161502007155
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_50
+  - first:
+      213: -6805820082227201045
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_51
+  - first:
+      213: 6572438498903038585
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_52
+  - first:
+      213: -335819191600173168
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_53
+  - first:
+      213: -2348599696631189782
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_54
+  - first:
+      213: 3152341049823774193
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_55
+  - first:
+      213: -1449874046695426887
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_56
+  - first:
+      213: -2111794915039661444
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_57
+  - first:
+      213: -6368782236052996070
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_58
+  - first:
+      213: 3595608676335469722
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_59
+  - first:
+      213: 3677673751253012594
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_60
+  - first:
+      213: 5609754265408492606
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_61
+  - first:
+      213: -8624854787313691615
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_62
+  - first:
+      213: -4963427797638586992
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_63
+  - first:
+      213: -2555092905383440703
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_64
+  - first:
+      213: -6642723112279318444
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_65
+  - first:
+      213: 3305117768496054295
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_66
+  - first:
+      213: -1866682997840364642
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_67
+  - first:
+      213: 3710557557899731945
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_68
+  - first:
+      213: 8942721973244312125
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_69
+  - first:
+      213: 4630221525661077988
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_70
+  - first:
+      213: 3814231977806510683
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_71
+  - first:
+      213: -8888413460591863489
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_72
+  - first:
+      213: -131522111008995999
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_73
+  - first:
+      213: 5232598385563193766
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_74
+  - first:
+      213: -1766857734057704137
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_75
+  - first:
+      213: 1953505127609116310
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_76
+  - first:
+      213: 3575776520351352394
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_77
+  - first:
+      213: 178379089263764413
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_78
+  - first:
+      213: 7097290404867638507
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_79
+  - first:
+      213: 6569074420334997374
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_80
+  - first:
+      213: 5401253324500500517
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_81
+  - first:
+      213: -6176709761401842622
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_82
+  - first:
+      213: 3984712553187099717
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_83
+  - first:
+      213: 8915418355580740553
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_84
+  - first:
+      213: 7325544143642019179
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_85
+  - first:
+      213: -497412117372971413
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_86
+  - first:
+      213: 24002528916551336
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_87
+  - first:
+      213: -8849986512776386632
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_88
+  - first:
+      213: -8788540211936888804
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_89
+  - first:
+      213: 2606589458220006795
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_90
+  - first:
+      213: 4257116965057276676
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_91
+  - first:
+      213: 8521725054867113850
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_92
+  - first:
+      213: -2764318619053314674
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_93
+  - first:
+      213: -3405949943993951680
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_94
+  - first:
+      213: -3127646833665632666
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_95
+  - first:
+      213: -2372708135401391731
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_96
+  - first:
+      213: -1005076045816172527
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_97
+  - first:
+      213: 2270455601871156932
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_98
+  - first:
+      213: 6780833110736858815
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_99
+  - first:
+      213: -6184799140127759897
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_100
+  - first:
+      213: -1633062546160268058
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_101
+  - first:
+      213: 4085333586589733931
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_102
+  - first:
+      213: -6309472610171417222
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_103
+  - first:
+      213: 6903122184619147256
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_104
+  - first:
+      213: 5518158560779962335
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_105
+  - first:
+      213: -2619289532870426434
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_106
+  - first:
+      213: 2524052694150065731
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_107
+  - first:
+      213: -4066121299469062067
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_108
+  - first:
+      213: 1538102163647551868
+    second: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 949
+        width: 151
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66df526528eebc130800000000000000
+      internalID: 3588223771689221478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1134
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455885542453fdc50800000000000000
+      internalID: 6692126130043389268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_2
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 881
+        width: 419
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2c623dcc76d0a0800000000000000
+      internalID: -6857156161868912050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_3
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1101
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20249fbdbcd4f33e0800000000000000
+      internalID: -2071851765602893310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_4
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1032
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9a96738cdfb03350800000000000000
+      internalID: 5994502057849428634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1077
+        width: 67
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c08ff861dbd5ff0800000000000000
+      internalID: -45672516601508745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_6
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1101
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5073e9a9acb74030800000000000000
+      internalID: 3478956674052747354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1101
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea4ffc8e55843cf0800000000000000
+      internalID: -273447036223796506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_8
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 1101
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e0969f6e98488d0800000000000000
+      internalID: -2844997439471415659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_9
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd3657902aa64610800000000000000
+      internalID: 1605157374158847412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_10
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1101
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c99340585d023c0800000000000000
+      internalID: -4386271269780611946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_11
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1101
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836c65a87d662eb40800000000000000
+      internalID: 5468045973506147896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_12
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1101
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa7a034ad9952500800000000000000
+      internalID: 370871707034614445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_13
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1101
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e89a4b69ab903030800000000000000
+      internalID: 3472446464654481634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_14
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1101
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca74e3bced54880800000000000000
+      internalID: -8627244546653705103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 1101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1b4983f157eab80800000000000000
+      internalID: -8381633079536209497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_16
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 1101
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f74cc83635a04690800000000000000
+      internalID: -7619908917211150346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_17
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1047
+        width: 60
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d5a082cd3bce700800000000000000
+      internalID: 571029010915155256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_18
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1084
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c7f2b0ec6e2f4e0800000000000000
+      internalID: -1949241916072690652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_19
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e29b34b86b499f0800000000000000
+      internalID: -462544152459399531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_20
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1084
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04504b2528bfd430800000000000000
+      internalID: 3809966279557665804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_21
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83c4ac4fa0300c0800000000000000
+      internalID: -4610829547014965086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_22
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1084
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ab9eeeb60c9e450800000000000000
+      internalID: 6118633138561858189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1084
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a924323ffc072e890800000000000000
+      internalID: -7430252396768181606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_24
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b63a1964aed5330800000000000000
+      internalID: 3701372057580432206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554151e5043ebc9f0800000000000000
+      internalID: -447013872397380523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_26
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1084
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f414a8a0c3c54bde0800000000000000
+      internalID: -1318327377968086705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_27
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1081
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246464746555df620800000000000000
+      internalID: 2809495571600393794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_28
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eed4ed32049ed50800000000000000
+      internalID: 6767010437898563139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_29
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1084
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec38c9ae274a3f10800000000000000
+      internalID: 2250189229567524079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_30
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a750e6aa5b8b83d0800000000000000
+      internalID: -3203313488480938074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_31
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1084
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efdddf2c276b8ce0800000000000000
+      internalID: -1401913419516485659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_32
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 1084
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421a730e76965c90800000000000000
+      internalID: -7181387087827299761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_33
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1084
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39b7168110507f00800000000000000
+      internalID: 1112477144154880314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_34
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d3985e564a68aa0800000000000000
+      internalID: -6159054682832945908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_35
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1084
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b5f12abc619ff0800000000000000
+      internalID: -31124175725415551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_36
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 916
+        width: 85
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbe3fd958aaab4a0800000000000000
+      internalID: -6576756814963807297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_37
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1067
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb730472665c9560800000000000000
+      internalID: 7321822075050752950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_38
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1067
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256243cf248900d90800000000000000
+      internalID: -7133534396288326062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_39
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 1065
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f060f508d730f5d40800000000000000
+      internalID: 5575178701267469839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_40
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1067
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0612f62d8d9c9b6f0800000000000000
+      internalID: -668281136607190688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_41
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1067
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee17c6d180de06f0800000000000000
+      internalID: -716406034632597788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_42
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1067
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c728f87c7f30760800000000000000
+      internalID: 7423049047314955280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_43
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1064
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422a29c36e852bea0800000000000000
+      internalID: -5858522419373628892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_44
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1067
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9c6eaf51a43cd60800000000000000
+      internalID: 7909246828856920507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_45
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1067
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8458c26f3bc5c1720800000000000000
+      internalID: 2818229394826102088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_46
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 1067
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15cd1baba77d3f50800000000000000
+      internalID: 6862772986376471837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_47
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1067
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6a4bc9b0ce73ce0800000000000000
+      internalID: -1425411222421592338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_48
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1067
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a0ba118cffda40800000000000000
+      internalID: 5395308510041909246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_49
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1067
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286117d4059659820800000000000000
+      internalID: 2924359326664562306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_50
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 1067
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d805a101fe377b5b0800000000000000
+      internalID: -5352682161502007155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_51
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1067
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb0a9a1bedc81a0800000000000000
+      internalID: -6805820082227201045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_52
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 864
+        width: 70
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a97331efdf53b50800000000000000
+      internalID: 6572438498903038585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_53
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 995
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa9e7793ee65bf0800000000000000
+      internalID: -335819191600173168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_54
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 883
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee25b2f409186fd0800000000000000
+      internalID: -2348599696631189782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_55
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 933
+        width: 127
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5c0a5ab7d5fbb20800000000000000
+      internalID: 3152341049823774193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_56
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 969
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b439ad7c3301ebe0800000000000000
+      internalID: -1449874046695426887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_57
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 967
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72b59aa6b561b2e0800000000000000
+      internalID: -2111794915039661444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_58
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 967
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a104e30bc4a8d97a0800000000000000
+      internalID: -6368782236052996070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_59
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 969
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94c9407a0b26e130800000000000000
+      internalID: 3595608676335469722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_60
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 969
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d637aac8b90330800000000000000
+      internalID: 3677673751253012594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_61
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 969
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34d7ea58c9d9dd40800000000000000
+      internalID: 5609754265408492606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_62
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 966
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12417d2744c5e4880800000000000000
+      internalID: -8624854787313691615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 858
+        width: 151
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dd37527bc5e1bb0800000000000000
+      internalID: -4963427797638586992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_64
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 935
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cecf7e3a8c7a8cd0800000000000000
+      internalID: -2555092905383440703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_65
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 935
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4506057268e40d3a0800000000000000
+      internalID: -6642723112279318444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_66
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 932
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7100a0469132edd20800000000000000
+      internalID: 3305117768496054295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_67
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 932
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bb67d14b53816e0800000000000000
+      internalID: -1866682997840364642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_68
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 935
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e32145807c8e7330800000000000000
+      internalID: 3710557557899731945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_69
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 916
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3abe4c014eea1c70800000000000000
+      internalID: 8942721973244312125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_70
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1556412f9d14040800000000000000
+      internalID: 4630221525661077988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_71
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ab71076cfdee430800000000000000
+      internalID: 3814231977806510683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_72
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 919
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f391f98ec0306a480800000000000000
+      internalID: -8888413460591863489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_73
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165033d365dbc2ef0800000000000000
+      internalID: -131522111008995999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_74
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 916
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1d6c7128ced9840800000000000000
+      internalID: 5232598385563193766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_75
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735c6d8804cda77e0800000000000000
+      internalID: -1766857734057704137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_76
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696ab0e309e3c1b10800000000000000
+      internalID: 1953505127609116310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_77
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4689bbccc5bf9130800000000000000
+      internalID: 3575776520351352394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_78
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 919
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3acea26dab97200800000000000000
+      internalID: 178379089263764413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_79
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 919
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be48ce92504ae7260800000000000000
+      internalID: 7097290404867638507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_80
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 919
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f2c2f716a0a2b50800000000000000
+      internalID: 6569074420334997374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_81
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 919
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52000c4184b15fa40800000000000000
+      internalID: 5401253324500500517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_82
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 663
+        width: 147
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24494f6923be74aa0800000000000000
+      internalID: -6176709761401842622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_83
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 663
+        width: 195
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544c1c884fa8c4730800000000000000
+      internalID: 3984712553187099717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_84
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 663
+        width: 211
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3236c22cde9bb70800000000000000
+      internalID: 8915418355580740553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_85
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 663
+        width: 121
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65c934169f89a560800000000000000
+      internalID: 7325544143642019179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_86
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 663
+        width: 197
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66520d8056d819f0800000000000000
+      internalID: -497412117372971413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_87
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 442
+        width: 140
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a638c14c26455000800000000000000
+      internalID: 24002528916551336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 442
+        width: 166
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b727f6e7288e2580800000000000000
+      internalID: -8849986512776386632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_89
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 442
+        width: 151
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18f34dad35d80680800000000000000
+      internalID: -8788540211936888804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_90
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 442
+        width: 158
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d3b7c4d477c2420800000000000000
+      internalID: 2606589458220006795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_91
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 442
+        width: 141
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b27851351541b30800000000000000
+      internalID: 4257116965057276676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_92
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 278
+        width: 262
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7786e099cf334670800000000000000
+      internalID: 8521725054867113850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_93
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 229
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d2459acda23a9d0800000000000000
+      internalID: -2764318619053314674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_94
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 230
+        width: 177
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a9a794292abb0d0800000000000000
+      internalID: -3405949943993951680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_95
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 229
+        width: 251
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6661c7896cd5894d0800000000000000
+      internalID: -3127646833665632666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_96
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 305
+        width: 219
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8978b1a582721fd0800000000000000
+      internalID: -2372708135401391731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_97
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 143
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1107fd459a04d02f0800000000000000
+      internalID: -1005076045816172527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_98
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 4
+        width: 168
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c673db2757428f10800000000000000
+      internalID: 2270455601871156932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_99
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4
+        width: 168
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6daea9cb5a1e50800000000000000
+      internalID: 6780833110736858815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_100
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 4
+        width: 137
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e12b8553fd2b2aa0800000000000000
+      internalID: -6184799140127759897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_101
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 118
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec4f1044423659e0800000000000000
+      internalID: -1633062546160268058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_102
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 102
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2457a1804502b830800000000000000
+      internalID: 4085333586589733931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_103
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 4
+        width: 134
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d0dae07104078a0800000000000000
+      internalID: -6309472610171417222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_104
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 60
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb7577d01dccf50800000000000000
+      internalID: 6903122184619147256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_105
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7029d79ff649c40800000000000000
+      internalID: 5518158560779962335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_106
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 4
+        width: 151
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb00c552c0a66abd0800000000000000
+      internalID: -2619289532870426434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_107
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 24
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34eae256d8c370320800000000000000
+      internalID: 2524052694150065731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_108
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 12
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d403f7ba83c3297c0800000000000000
+      internalID: -4066121299469062067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Browser Games - Marvel Avengers Alliance - Ultimate Ultron_109
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 9
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79d874c4cf685510800000000000000
+      internalID: 1538102163647551868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
