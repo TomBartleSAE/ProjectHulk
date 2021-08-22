@@ -28,7 +28,7 @@ public class RangedEnemy : Enemy
     {
         if (player != null)
         {
-            if (Vector2.Distance(position, player.position) > stopDistance)
+            if (Vector2.Distance(transform.position, player.position) > stopDistance)
             {
                 //position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
                 //rb.MovePosition(position);
