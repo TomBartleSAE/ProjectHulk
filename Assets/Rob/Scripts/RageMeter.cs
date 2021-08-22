@@ -18,7 +18,7 @@ namespace Rob
         private void Awake()
         {
             counter = 0;
-            rageImage = gameObject.GetComponent<Image>();
+            rageImage = GetComponent<Image>();
         }
 
         private void Start()
