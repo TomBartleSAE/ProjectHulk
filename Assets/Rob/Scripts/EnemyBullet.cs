@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Tom;
 using UnityEngine;
 
 public class EnemyBullet : MonoBehaviour
@@ -9,13 +10,13 @@ public class EnemyBullet : MonoBehaviour
 
     //private PlayerJumping playerScript;
     private Vector2 targetPosition;
-
+    private GameObject player;
 
     // Start is called before the first frame update
     void Start()
     {
-        GameObject playerScript = GameObject.FindGameObjectWithTag("Player");//.GetComponent<PlayerJumping>();
-        targetPosition = playerScript.transform.position;
+        player = GameObject.FindGameObjectWithTag("Player");//.GetComponent<PlayerJumping>();
+        targetPosition = player.transform.position;
     }
 
     // Update is called once per frame
@@ -31,12 +32,11 @@ public class EnemyBullet : MonoBehaviour
         }
     }
 
-    // private void OnTriggerEnter2D(Collider2D collision)
-    // {
-    //     if (collision.tag == "Player")
-    //     {
-    //         playerScript.TakeDamage(damage);
-    //         Destroy(gameObject);
-    //     }
-    // }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Player") {
+            player.GetComponent<Health>().TakeDamage();
+            Destroy(gameObject);
+        }
+    }
 }

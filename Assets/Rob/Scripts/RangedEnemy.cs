@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using Tom;
 using UnityEngine;
 
 public class RangedEnemy : Enemy
@@ -33,6 +34,7 @@ public class RangedEnemy : Enemy
                 //position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
                 //rb.MovePosition(position);
                 transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
+                anim.SetFloat("Movement", 1);
             }
 
             else
@@ -42,12 +44,18 @@ public class RangedEnemy : Enemy
                     attackTime = Time.time + timeBetweenAttacks;
                     RangedAttack();
                 }
+                anim.SetFloat("Movement", 0);
             }
             
+            if (player.position.x - transform.position.x > 0)
+            {
+                transform.eulerAngles = new Vector3(transform.eulerAngles.x, 0, transform.eulerAngles.z);
+            }
 
-
-            
-
+            if (player.position.x - transform.position.x < 0)
+            {
+                transform.eulerAngles = new Vector3(transform.eulerAngles.x, 180, transform.eulerAngles.z);
+            }
         }
     }
 
@@ -57,8 +65,26 @@ public class RangedEnemy : Enemy
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         Quaternion rotation = Quaternion.AngleAxis(angle - 90, Vector3.forward);
         shotPoint.rotation = rotation;
+        anim.SetTrigger("Attack");
 
         Instantiate(enemyBullet, shotPoint.position, shotPoint.rotation);
+    }
+
+    private void OnEnable()
+    {
+        GetComponent<Health>().OnDamageEvent += Die;
+    }
+
+    private void OnDisable()
+    {
+        GetComponent<Health>().OnDamageEvent -= Die;
+    }
+
+    private void Die()
+    {
+        anim.SetTrigger("Die");
+        Destroy(this);
+        Destroy(gameObject, 5);
     }
 }
 

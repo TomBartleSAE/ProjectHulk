@@ -85,6 +85,7 @@ public class MeleeEnemy : Enemy
     private void Die()
     {
         anim.SetTrigger("Die");
+        Destroy(this);
         Destroy(gameObject, 5);
     }
 }

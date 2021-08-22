@@ -7,9 +7,6 @@ using UnityEngine.UI;
 
 namespace Rob
 {
-
-
-
     public class HealthBar : MonoBehaviour
     {
         private Animator anim;
@@ -18,7 +15,6 @@ namespace Rob
         private void Start()
         {
             anim = GetComponent<Animator>();
-            
         }
 
         private void Update()
@@ -36,24 +32,18 @@ namespace Rob
 
         public void OnEnable()
         {
-            FindObjectOfType<Health>().OnDamageEvent += DamageTaken;
+            GameObject.FindGameObjectWithTag("Player").GetComponent<Health>().OnDamageEvent += DamageTaken;
         }
 
         public void OnDisable()
         {
-            FindObjectOfType<Health>().OnDamageEvent -= DamageTaken;
+            GameObject.FindGameObjectWithTag("Player").GetComponent<Health>().OnDamageEvent -= DamageTaken;
         }
 
 
         public void DamageTaken()
         {
-           anim.SetTrigger("HealthUI");
+            anim.SetTrigger("HealthUI");
         }
-
-
-
-
-
-        
     }
 }
