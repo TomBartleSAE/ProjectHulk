@@ -13,6 +13,7 @@ namespace Rob
         private Sprite currentCitySprite;
         private Image cityImage;
         private int counter;
+        
 
 
         private void Awake()
@@ -51,6 +52,10 @@ namespace Rob
             counter++;
             currentCitySprite = cityHealth[counter];
             cityImage.sprite = currentCitySprite;
+            if (counter >= cityHealth.Length - 1)
+            {
+                FindObjectOfType<PanelScreen>().LostGame();
+            }
         }
     }
 }
