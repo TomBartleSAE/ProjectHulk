@@ -17,19 +17,6 @@ namespace Rob
             anim = GetComponent<Animator>();
         }
 
-        private void Update()
-        {
-            if (Input.GetKeyDown(KeyCode.L))
-            {
-                anim.SetTrigger("HealthUI");
-            }
-
-            if (Input.GetKeyDown(KeyCode.K))
-            {
-                anim.SetTrigger("HealthRefill");
-            }
-        }
-
         public void OnEnable()
         {
             GameObject.FindGameObjectWithTag("Player").GetComponent<Health>().OnDamageEvent += DamageTaken;

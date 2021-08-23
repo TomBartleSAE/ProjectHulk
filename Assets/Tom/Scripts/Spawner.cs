@@ -35,7 +35,7 @@ public class Spawner : MonoBehaviour
 
     public void Spawn()
     {
-        GameObject newEnemy = Instantiate(objectsToSpawn[Random.Range(0, objectsToSpawn.Length - 1)], transform.position, transform.rotation);
+        GameObject newEnemy = Instantiate(objectsToSpawn[Random.Range(0, objectsToSpawn.Length)], transform.position, transform.rotation);
         newEnemy.GetComponent<Health>().OnDamageEvent += enemyHealth.EnemyKilled;
         timer = Random.Range(minDelay, maxDelay);
     }

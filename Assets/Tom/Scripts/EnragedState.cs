@@ -37,6 +37,8 @@ public class EnragedState : MonoBehaviour
     {
         input.enabled = true;
         FindObjectOfType<HealthBar>().GetComponent<Animator>().SetTrigger("HealthRefill");
+        GetComponent<PlayerHealth>().currentHealth = GetComponent<PlayerHealth>().maxHealth;
+        StartCoroutine(FindObjectOfType<RageMeter>().SwitchSprite());
     }
 
     private void Update()

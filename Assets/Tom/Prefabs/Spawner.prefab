@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minDelay: 5
-  maxDelay: 10
+  maxDelay: 20
   objectsToSpawn:
   - {fileID: 6842398154701906329, guid: c3119d93397eb18488148e3a3ec0048c, type: 3}
   - {fileID: 2262590450734945356, guid: a232bbacfee1a4c41a75304339264c42, type: 3}
