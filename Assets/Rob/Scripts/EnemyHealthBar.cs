@@ -35,9 +35,9 @@ namespace Rob
             currentEnemySprite = enemySprite[counter];
             enemyImage.sprite = currentEnemySprite;
             
-            if (counter > enemySprite.Length)
+            if (counter >= enemySprite.Length - 1)
             {
-                //do stuff
+                FindObjectOfType<PanelScreen>().WinGame();
             }
         }
     }
