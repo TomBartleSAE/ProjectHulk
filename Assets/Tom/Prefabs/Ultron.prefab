@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2262590450734945359}
   - component: {fileID: 2262590450734945345}
   - component: {fileID: 2262590450734945346}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Ultron
   m_TagString: Untagged
   m_Icon: {fileID: 0}

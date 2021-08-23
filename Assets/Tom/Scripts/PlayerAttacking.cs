@@ -13,6 +13,7 @@ namespace Tom
         public float attackRadius = 0.5f;
         private Animator anim;
         public GameObject hitEffect;
+        public LayerMask enemyLayer;
 
         private void Start()
         {
@@ -32,7 +33,7 @@ namespace Tom
         {
             if (attackTimer <= 0)
             {
-                Collider2D[] hitObjects = Physics2D.OverlapCircleAll(attackPoint.position, attackRadius);
+                Collider2D[] hitObjects = Physics2D.OverlapCircleAll(attackPoint.position, attackRadius, enemyLayer);
 
                 if (hitObjects != null)
                 {

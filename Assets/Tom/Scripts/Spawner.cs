@@ -1,6 +1,8 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Rob;
+using Tom;
 using UnityEngine;
 using Random = UnityEngine.Random;
 
@@ -10,9 +12,11 @@ public class Spawner : MonoBehaviour
     private float timer;
 
     public GameObject[] objectsToSpawn;
+    private EnemyHealthBar enemyHealth;
 
     public void Start()
     {
+        enemyHealth = FindObjectOfType<EnemyHealthBar>();
         timer = Random.Range(minDelay, maxDelay);
     }
 
@@ -31,7 +35,8 @@ public class Spawner : MonoBehaviour
 
     public void Spawn()
     {
-        Instantiate(objectsToSpawn[Random.Range(0, objectsToSpawn.Length)], transform.position, transform.rotation);
+        GameObject newEnemy = Instantiate(objectsToSpawn[Random.Range(0, objectsToSpawn.Length - 1)], transform.position, transform.rotation);
+        newEnemy.GetComponent<Health>().OnDamageEvent += enemyHealth.EnemyKilled;
         timer = Random.Range(minDelay, maxDelay);
     }
 }
