@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6842398152704939474}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Shot Point
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 6842398154701906328}
   - component: {fileID: 6182716806173909522}
   - component: {fileID: 4938068793792149320}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Loki
   m_TagString: Untagged
   m_Icon: {fileID: 0}

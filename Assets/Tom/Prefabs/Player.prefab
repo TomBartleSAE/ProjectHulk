@@ -117,6 +117,9 @@ MonoBehaviour:
   attackPoint: {fileID: 384166400}
   attackRadius: 1
   hitEffect: {fileID: 2955116574427499293, guid: 6daf3280aadbf2541ac7020c5f8ce63a, type: 3}
+  enemyLayer:
+    serializedVersion: 2
+    m_Bits: 256
 --- !u!212 &4065139268864785875
 SpriteRenderer:
   m_ObjectHideFlags: 0

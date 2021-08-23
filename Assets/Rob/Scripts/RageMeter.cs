@@ -48,7 +48,7 @@ namespace Rob
             currentSprite = rageSprites[counter];
             rageImage.sprite = currentSprite;
 
-            if (counter < rageSprites.Length)
+            if (counter < rageSprites.Length - 1)
             {
                 counter++;
             }
