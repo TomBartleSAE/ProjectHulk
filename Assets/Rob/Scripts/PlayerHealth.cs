@@ -6,7 +6,7 @@ using Tom;
 
 
 namespace Rob
-{ 
+{
     public class PlayerHealth : MonoBehaviour
     {
         public int currentHealth;
@@ -14,9 +14,8 @@ namespace Rob
         private EnragedState enragedState;
         private HealthBar healthBar;
         private RageMeter rageMeter;
-        
-        
-        
+
+
         // Start is called before the first frame update
         void Start()
         {
@@ -28,12 +27,12 @@ namespace Rob
 
         public void OnEnable()
         {
-            FindObjectOfType<Health>().OnDamageEvent += DamageTaken;
+            GetComponent<Health>().OnDamageEvent += DamageTaken;
         }
 
         public void OnDisable()
         {
-            FindObjectOfType<Health>().OnDamageEvent -= DamageTaken;
+            GetComponent<Health>().OnDamageEvent -= DamageTaken;
         }
 
 
@@ -42,17 +41,20 @@ namespace Rob
             currentHealth -= 1;
             if (currentHealth <= 0)
             {
-                rageMeter.raged = true;
-                enragedState.StartRage();
+                if (enragedState.timer <= 0)
+                {
+                    enragedState.StartRage();
+                    rageMeter.raged = true;
+                }
+
                 currentHealth = maxHealth;
-                healthBar.GetComponent<Animator>().SetTrigger("HealthRefill");
+                
             }
         }
 
         // Update is called once per frame
         void Update()
         {
-            
         }
     }
 }

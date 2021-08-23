@@ -1,13 +1,14 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using Rob;
 using Tom;
 using UnityEngine;
 
 public class EnragedState : MonoBehaviour
 {
     public float rageTime = 5f;
-    private float timer;
+    public float timer;
 
     private PlayerMovement movement;
     private PlayerAttacking attacking;
@@ -35,6 +36,7 @@ public class EnragedState : MonoBehaviour
     public void StopRage()
     {
         input.enabled = true;
+        FindObjectOfType<HealthBar>().GetComponent<Animator>().SetTrigger("HealthRefill");
     }
 
     private void Update()
